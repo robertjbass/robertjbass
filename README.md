@@ -50,6 +50,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/addons#popular-sources
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Project NextApp (beta) needs some testers](https://dev.to/716green/project-nextapp-beta-needs-some-testers-3fm6)
+- [Leaving stability to bootstrap a SaaS startup](https://dev.to/716green/leaving-stability-to-bootstrap-a-saas-startup-175p)
 <!-- BLOG-POST-LIST:END -->
 
 ---

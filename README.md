@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full-stack developer, long-time entrepreneur, and startup founder in Buffalo, NY</h3>
 
-[![Bob's Twitter](https://img.shields.io/twitter/follow/bobdotjs?logo=twitter&style=for-the-badge)](https://twitter.com/716green)
+[![Bob's Twitter](https://img.shields.io/twitter/follow/bobdotjs?logo=twitter&style=for-the-badge)](https://twitter.com/bobdotjs)
 
 ![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=716green&show_icons=true&theme=radical)
 

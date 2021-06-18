@@ -16,9 +16,9 @@
 
 - 👨🏻‍💻 I’m currently working on [DebtOS - The first accounts receivable automation platform.](https://DebtCollect.io)
 
-- 🌱 I’m currently learning **Golang, Rust, C++, Svelte, React Ecosystem**
+- 🌱 I’m currently learning **Golang, Rust, C++, Svelte, Elixir, and Ruby**
 
-- 🎧 I’m looking to collaborate on **A podcast to nerd out about programming languages, frameworks, and technologies.**
+- 🎧 I’m looking to collaborate on **a podcast to nerd out about programming languages, frameworks, and technologies.**
 
 - 🤝 I’m looking for help with [Project NextApp - A hub for programmers to grow and learn together.](https://ProjectNext.app)
 

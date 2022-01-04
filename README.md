@@ -1,6 +1,6 @@
 <h1 align="center">👋 My name is Bob Bass</h1>
 
-<h3 align="center">A passionate full-stack developer, long-time entrepreneur, and startup founder in Buffalo, NY</h3>
+<h3 align="center">A passionate software engineer, long-time entrepreneur, and startup founder in San Francisco, CA</h3>
 
 [![Bob's Twitter](https://img.shields.io/twitter/follow/bobdotjs?logo=twitter&style=for-the-badge)](https://twitter.com/bobdotjs)
 
@@ -14,7 +14,7 @@
 
 [![Bob's Trophies](https://github-profile-trophy.vercel.app/?username=716green&theme=darkhub&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👨🏻‍💻 I’m currently working on [DebtOS - The first accounts receivable automation platform.](https://DebtCollect.io)
+- 👨🏻‍💻 [DebtOS - The first accounts receivable automation platform.](https://DebtCollect.io)
 
 - 🌱 I’m currently learning **Golang, Rust, C++, Svelte, Elixir, and Ruby**
 

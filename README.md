@@ -1,6 +1,6 @@
 <h1 align="center">👋 My name is Bob Bass</h1>
 
-<h3 align="center">A passionate software engineer, long-time entrepreneur, and startup founder in San Francisco, CA</h3>
+<h3 align="center">A passionate software engineer, entrepreneur, and former startup founder in the Bay Area</h3>
 
 [![Bob's Twitter](https://img.shields.io/twitter/follow/bobdotjs?logo=twitter&style=for-the-badge)](https://twitter.com/bobdotjs)
 
@@ -26,7 +26,7 @@
 
 - 📝 I regularly write articles on [https://coda.io/@bob](https://coda.io/@bob)
 
-- 💬 Ask me about **🆅 Vue, 🐬 MySQL, [ʦ] Typescript, 💳 The Debt Industry, ⚡️ Automation, 🐀🐁 My Rats**
+- 💬 Ask me about **🆅 Vue, 🐬 MySQL, [ʦ] Typescript, 💳 The Debt Industry, ⚡️ Automation**
 
 - 📫 How to reach me **bob@narro.app**
 

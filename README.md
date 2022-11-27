@@ -4,15 +4,15 @@
 
 [![Bob's Twitter](https://img.shields.io/twitter/follow/bobdotjs?logo=twitter&style=for-the-badge)](https://twitter.com/bobdotjs)
 
-![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=716green&show_icons=true&theme=radical)
+![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=716green&theme=radical)](https://github.com/716green)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=robertjbass&theme=radical)](https://github.com/robertjbass)
 
-[![Bob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DataBass&theme=radical)](https://github.com/716green/github-readme-stats)
+[![Bob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DataBass&theme=radical)](https://github.com/robertjbass/github-readme-stats)
 
-[![Bob's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=716green&show_icons=true&locale=en&theme=radical)](https://github.com/716green)
+[![Bob's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=robertjbass&show_icons=true&locale=en&theme=radical)](https://github.com/robertjbass)
 
-[![Bob's Trophies](https://github-profile-trophy.vercel.app/?username=716green&theme=darkhub&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Bob's Trophies](https://github-profile-trophy.vercel.app/?username=robertjbass&theme=darkhub&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👨🏻‍💻 [DebtOS - The first accounts receivable automation platform.](https://DebtCollect.io)
 
@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with [Project NextApp - A hub for programmers to grow and learn together.](https://ProjectNext.app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/716green](https://github.com/716green)
+- 👨‍💻 All of my projects are available at [https://github.com/robertjbass](https://github.com/robertjbass)
 
 - 📝 I regularly write articles on [https://coda.io/@bob](https://coda.io/@bob)
 
@@ -115,7 +115,7 @@ I'm always open to new opportunities, especially when it involves fun or interes
 <p align="left">
 
 <a href="https://www.youtube.com/c/databasssoftware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="databasssoftware" height="30" width="40" /></a>
-<a href="https://twitter.com/716green" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="716green" height="30" width="40" /></a>
+<a href="https://twitter.com/bobdotjs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bobdotjs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bbass9490" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bbass9490" height="30" width="40" /></a>
 <a href="https://dev.to/716green" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="716green" height="30" width="40" /></a>
 <a href="https://discord.gg/1649" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="1649" height="30" width="40" /></a>
@@ -125,8 +125,9 @@ I'm always open to new opportunities, especially when it involves fun or interes
 
 ### Handles
 
+
 - YouTube: <a href="https://www.youtube.com/@bobDotJS">DataBass Software</a>
-- GitHub: <a href="https://github.com/716green">716green</a>
+- GitHub: <a href="https://github.com/robertjbass">robertjbass</a>
 - LinkedIn: <a href="https://linkedin.com/in/bbass9490">bbass9490</a>
 
 </p>

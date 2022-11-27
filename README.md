@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **🆅 Vue, 🐬 MySQL, [ʦ] Typescript, 💳 The Debt Industry, ⚡️ Automation**
 
-- 📫 How to reach me **bob@narro.app**
+- 📫 How to reach me **bob@bbass.co**
 
 - 📄 Know about my experiences [https://projectnext.app](https://projectnext.app)
 
@@ -107,7 +107,7 @@ _Technologies that I'm currently learning, playing with, or building passion-pro
 
 ### Want to work with me?
 
-<a href="mailto:bob@narro.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="narro" height="30" width="40" />bob@narro.app</a><br><br>
+<a href="mailto:bob@bbass.co" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="narro" height="30" width="40" />bob@bbass.co</a><br><br>
 I'm a full-stack developer with a specific passion for Vue.js, Typescript, Relational Databases, and learning new technologies.
 
 I'm always open to new opportunities, especially when it involves fun or interesting technologies. I'm more than happy to provide a guided tour of my private repos.
@@ -125,7 +125,8 @@ I'm always open to new opportunities, especially when it involves fun or interes
 
 ### Handles
 
-- YouTube: <a href="https://www.youtube.com/c/databasssoftware">DataBass Software</a>
+
+- YouTube: <a href="https://www.youtube.com/@bobDotJS">DataBass Software</a>
 - GitHub: <a href="https://github.com/robertjbass">robertjbass</a>
 - LinkedIn: <a href="https://linkedin.com/in/bbass9490">bbass9490</a>
 

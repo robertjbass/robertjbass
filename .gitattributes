@@ -1,0 +1,29 @@
+# Tell GitHub's linguist to ignore generated/compiled files and dependencies
+# This ensures your language stats accurately reflect the code YOU write
+
+# Build outputs and compiled JavaScript
+dist/** linguist-generated
+build/** linguist-generated
+out/** linguist-generated
+.next/** linguist-generated
+.nuxt/** linguist-generated
+coverage/** linguist-generated
+*.min.js linguist-generated
+*.bundle.js linguist-generated
+
+# Dependencies
+node_modules/** linguist-vendored
+vendor/** linguist-vendored
+packages/**/node_modules/** linguist-vendored
+
+# Documentation and config that shouldn't count as code
+*.md linguist-documentation
+docs/** linguist-documentation
+*.json linguist-data
+*.yml linguist-data
+*.yaml linguist-data
+
+# Lock files
+package-lock.json linguist-generated
+yarn.lock linguist-generated
+pnpm-lock.yaml linguist-generated

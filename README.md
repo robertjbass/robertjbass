@@ -1,38 +1,31 @@
-<h1 align="center">👋 Hi, I'm Bob Bass</h1>
-
 <p align="center">
-  <strong>Head of Engineering</strong> at <a href="https://efficient.app" target="_blank">Efficient App</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6E96&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Bob+Bass;Head+of+Engineering+at+Efficient+App;Full+Stack+Developer;TypeScript+Enthusiast;Former+Startup+Founder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>Software Engineer • Entrepreneur • Former Startup Founder</em>
-</p>
-
-<p align="center">
-  🗽 NY → 🌉 SF → 🤠 ATX
+  🦬🗽 WNY → 🌉 SF → 🤠 ATX
 </p>
 
 <div align="center">
 
-![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide=contribs&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertjbass&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertjbass&theme=radical&border_radius=10&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&sideLabels=79dafa&currStreakNum=79dafa&dates=9f9f9f&sideNums=79dafa)](https://github.com/robertjbass)
+![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)
 
 [![Bob's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertjbass&layout=compact&theme=radical&langs_count=14&exclude_repo=IAmTimCCourses,place-tracking-app,bbass-co,backslash,express-todo,react_crash_todo,react-currency-converter,svelte-jotpad,vue-product-app,react-class-component-ref,fwd-gg,electron-screen-recording-vue,jsMachineLearningTextColor&hide=pug,ejs,jade,scss,plpgsql&border_radius=10&bg_color=0d1117&title_color=ff6e96&text_color=9f9f9f&border_color=ff6e96&size_weight=0&count_weight=1)](https://github.com/robertjbass)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertjbass&theme=radical&border_radius=10&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&sideLabels=79dafa&currStreakNum=79dafa&dates=9f9f9f&sideNums=79dafa)](https://github.com/robertjbass)
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertjbass&theme=github-compact&bg_color=0d1117&color=79dafa&line=ff6e96&point=79dafa&area=true&hide_border=false&border_color=ff6e96&radius=10&days=31" alt="GitHub Activity Graph" style="max-width: 100%; width: 100%;">
-
-_Note: JavaScript shown above includes compiled TypeScript output. View repos for source code._
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertjbass&theme=radical&column=-1&margin-w=10&margin-h=10&no-frame=false&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Bob's Trophies" style="max-width: 100%; width: 100%;"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertjbass&theme=radical&column=-1&margin-w=10&margin-h=10&no-frame=false&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Stars,-PullRequest,-Issues" alt="Bob's Trophies" style="max-width: 100%; width: 100%;"></a>
 
 </div>
 
 ---
 
-## Fun Facts
+## About Me
 
-- 🐀 I love and have had 10 pet rats
+- 🐀 I love rats and have had 10 as pets
 - 🛹 I'm a skateboarder
 - 🎸 I play guitar
 - 💼 I owned a debt collection agency for nearly a full decade before selling it to pursue software engineering full time
@@ -71,6 +64,7 @@ _My open source projects_
 [![Ask Chat](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=ask-chat&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/ask-chat)
 [![Hey ChatGPT](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=hey-chatgpt&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/hey-chatgpt)
 [![Layerbase](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=layerbase&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/layerbase)
+[![GH Data Scraper](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=gh-data-scraper&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/gh-data-scraper)
 [![ReactX State Management](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=reactx-state-management&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/reactx-state-management)
 
 </div>
@@ -128,7 +122,6 @@ _Technologies that I'm currently learning, playing with, or building passion-pro
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
 </p>
 
 ---
@@ -161,9 +154,6 @@ _Technologies that I'm currently learning, playing with, or building passion-pro
   </a>
   <a href="https://linkedin.com/in/bbass9490" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dev.to/716green" target="blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
   <a href="https://ourpassion.dev" target="blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />

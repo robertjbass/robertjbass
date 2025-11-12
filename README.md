@@ -1,58 +1,95 @@
-<h1 align="center">👋 My name is Bob Bass</h1>
+<h1 align="center">👋 Hi, I'm Bob Bass</h1>
 
-<h3 align="center">Head of Engineering at <a href="https://efficient.app" target="_blank">Efficient App</a> | A passionate software engineer, entrepreneur, and former startup founder | NY → SF → ATX</h3>
+<p align="center">
+  <strong>Head of Engineering</strong> at <a href="https://efficient.app" target="_blank">Efficient App</a>
+</p>
 
-![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&rank_icon=github)
+<p align="center">
+  <em>Software Engineer • Entrepreneur • Former Startup Founder</em>
+</p>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=robertjbass&theme=radical)](https://github.com/robertjbass)
+<p align="center">
+  🗽 NY → 🌉 SF → 🤠 ATX
+</p>
 
-[![Bob's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertjbass&layout=compact&theme=radical&langs_count=10&hide=html,css&card_width=445)](https://github.com/robertjbass)
+<div align="center">
+
+![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=robertjbass&theme=radical&border_radius=10&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&sideLabels=79dafa&currStreakNum=79dafa&dates=9f9f9f&sideNums=79dafa)](https://github.com/robertjbass)
+
+[![Bob's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertjbass&layout=compact&theme=radical&langs_count=10&hide=html,css&card_width=445&border_radius=10&bg_color=0d1117&title_color=ff6e96&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robertjbass&theme=github-compact&bg_color=0d1117&color=79dafa&line=ff6e96&point=79dafa&area=true&hide_border=false&border_color=ff6e96&radius=10)](https://github.com/robertjbass)
+
+</div>
 
 _Note: JavaScript shown above includes compiled TypeScript output. View repos for source code._
 
-[![Bob's Trophies](https://github-profile-trophy.vercel.app/?username=robertjbass&theme=darkhub&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
-- 👨🏻‍💻 [DebtOS - The first accounts receivable automation platform.](https://DebtCollect.io)
+[![Bob's Trophies](https://github-profile-trophy.vercel.app/?username=robertjbass&theme=radical&column=4&margin-w=10&margin-h=10&no-frame=false&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I'm currently learning **Golang, Rust, C++, Svelte, Elixir, and React Native**
+</div>
 
-- 🎧 I’m looking to collaborate on **a podcast to nerd out about programming languages, frameworks, and technologies.**
+---
 
-- 🤝 I’m looking for help with [Project NextApp - A hub for programmers to grow and learn together.](https://ProjectNext.app)
+## Fun Facts
 
-- 👨‍💻 All of my projects are available at [https://github.com/robertjbass](https://github.com/robertjbass)
-
-- 📝 I regularly write articles on [https://coda.io/@bob](https://coda.io/@bob)
-
-- 💬 Ask me about **🆅 Vue, 🐬 MySQL, [ʦ] Typescript, 💳 The Debt Industry, ⚡️ Automation**
-
-- 📫 How to reach me **bob@bbass.co**
-
-- 📄 Know about my experiences [https://projectnext.app](https://projectnext.app)
-
-- ⚡ Fun fact **I owned a collection agency for almost a decade, I sold it and I'm now working to modernize the debt industy.**
+- 🐀 I love and have had 10 pet rats
+- 🛹 I'm a skateboarder
+- 🎸 I play guitar
+- 💼 I owned a debt collection agency for nearly a full decade before selling it to pursue software engineering full time
+- 🏆 My startup DebtOS was a 2020 Pioneer Startup competition winner
+- 💙 My favorite language is TypeScript, my first language was C#
+- 🛠️ My favorite thing to build is developer tooling
 
 ---
 
 ### My Companies
 
-- <a href="https://narro.app">Narro Automation</a> - Custom Business Automation
+- <a href="https://layerbase.com">Layerbase</a> - Custom Software Engineering and Consulting
 
-- <a href="https://debtcollect.io">DebtOS</a> -
-  SaaS software for the debt/lending industries
+- Narro Automation - Custom Business Automation (2018 - 2020)
 
-<!--
-### Blogs posts
-todo: create RSS feed
-https://rahuldkjain.github.io/gh-profile-readme-generator/addons#popular-sources
--->
+- <a href="https://coda.io/@narro/debtos-screenshots">DebtOS</a> - SaaS startup for Accounts Receivable Management Automation (2019 - 2022)
 
-<!-- BLOG-POST-LIST:START -->
+- Ashland Development, LLC - Technology Focused ARM agency (2012 - 2019) [Sold Dec 2019]
 
-- [Becoming the person that I needed when I started](https://dev.to/716green/becoming-the-person-that-i-needed-when-i-started-29jn)
-- [Project NextApp &lpar;beta&rpar; needs some testers](https://dev.to/716green/project-nextapp-beta-needs-some-testers-3fm6)
-- [Leaving stability to bootstrap a SaaS startup](https://dev.to/716green/leaving-stability-to-bootstrap-a-saas-startup-175p)
-<!-- BLOG-POST-LIST:END -->
+### Additional Professional Roles
+
+- Lead Engineer - Products Team | Biopharma
+- IC - Stealth Startup | AI Video Processing
+- IC Contractor - Funded Startup | AI Infrastructure
+
+---
+
+## My Repos
+
+_My open source projects_
+
+<div align="center">
+
+[![NodePM UI](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=nodepm-ui&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/nodepm-ui)
+[![PGP](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=pgp&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/pgp)
+[![Ask Chat](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=ask-chat&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/ask-chat)
+[![Hey ChatGPT](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=hey-chatgpt&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/hey-chatgpt)
+[![Layerbase](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=layerbase&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/layerbase)
+[![ReactX State Management](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=reactx-state-management&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/reactx-state-management)
+
+</div>
+
+---
+
+## Open Source Contributions
+
+_Open source projects I contribute to_
+
+<div align="center">
+
+[![Payload CMS](https://github-readme-stats.vercel.app/api/pin/?username=payloadcms&repo=payload&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/payloadcms/payload)
+
+</div>
 
 ---
 
@@ -60,25 +97,25 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/addons#popular-sources
 
 _Technologies that I'm passionate about_
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://vercel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://payloadcms.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/62968818?s=200&v=4" alt="payloadcms" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.apple.com/macos/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apple.svg" alt="macos" width="40" height="40"/> </a>
-<a href="https://www.zsh.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="zsh" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PayloadCMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" alt="PayloadCMS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
 </p>
 
 ---
@@ -87,41 +124,61 @@ _Technologies that I'm passionate about_
 
 _Technologies that I'm currently learning, playing with, or building passion-projects with (non-comprehensive)_
 
-<p align="left">
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
-<a href="https://elixir-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
 </p>
+
+---
+
+## Published Articles
+
+- [Becoming the person that I needed when I started](https://dev.to/716green/becoming-the-person-that-i-needed-when-i-started-29jn)
+- [Project NextApp (beta) needs some testers](https://dev.to/716green/project-nextapp-beta-needs-some-testers-3fm6)
+- [Leaving stability to bootstrap a SaaS startup](https://dev.to/716green/leaving-stability-to-bootstrap-a-saas-startup-175p)
+- [How to Become a Debt Buyer](https://coda.io/@bob/debt-buyer)
+- [Entrepreneur](https://coda.io/@narro/entrepreneur)
+
+---
+
+## Archived Projects
+
+- [DebtOS](https://coda.io/@narro/debtos-screenshots) - SaaS startup for Accounts Receivable Management Automation (2019 - 2022) • 2020 Pioneer Startup Competition Winner
+- [Project NextApp](https://projectnext.app) - A hub for programmers to grow and learn together
 
 ---
 
 ## Connect with me
 
-### Want to work with me?
+<p align="center">
+  <a href="https://www.youtube.com/@bobDotJS" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com/bobdotjs" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/bbass9490" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/716green" target="blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://discord.gg/1649" target="blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://substack.com/@alternaterealms" target="blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+  </a>
+</p>
 
-<a href="mailto:bob@bbass.co" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="narro" height="30" width="40" />bob@bbass.co</a><br><br>
-I'm a full-stack developer with a specific passion for Vue.js, Typescript, Relational Databases, and learning new technologies.
-
-I'm always open to new opportunities, especially when it involves fun or interesting technologies. I'm more than happy to provide a guided tour of my private repos.
-
-<p align="left">
-
-<a href="https://www.youtube.com/c/databasssoftware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="databasssoftware" height="30" width="40" /></a>
-<a href="https://twitter.com/bobdotjs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bobdotjs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bbass9490" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bbass9490" height="30" width="40" /></a>
-<a href="https://dev.to/716green" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="716green" height="30" width="40" /></a>
-<a href="https://discord.gg/1649" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="1649" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6723081" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6723081" height="30" width="40" /></a>
-
-### Handles
-
-- YouTube: <a href="https://www.youtube.com/@bobDotJS">DataBass Software</a>
-- GitHub: <a href="https://github.com/robertjbass">robertjbass</a>
-- LinkedIn: <a href="https://linkedin.com/in/bbass9490">bbass9490</a>
-
+<p align="center">
+  <a href="mailto:bob@bbass.co">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>

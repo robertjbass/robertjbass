@@ -169,7 +169,7 @@ _Technologies that I'm currently learning, playing with, or building passion-pro
   <a href="https://dev.to/716green" target="blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://discord.gg/1649" target="blank">
+  <a href="https://ourpassion.dev" target="blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://substack.com/@alternaterealms" target="blank">

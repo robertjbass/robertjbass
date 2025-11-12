@@ -14,13 +14,13 @@
 
 <div align="center">
 
-![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)
+![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide=contribs&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertjbass&theme=radical&border_radius=10&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&sideLabels=79dafa&currStreakNum=79dafa&dates=9f9f9f&sideNums=79dafa)](https://github.com/robertjbass)
 
 [![Bob's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertjbass&layout=compact&theme=radical&langs_count=14&exclude_repo=IAmTimCCourses,place-tracking-app,bbass-co,backslash,express-todo,react_crash_todo,react-currency-converter,svelte-jotpad,vue-product-app,react-class-component-ref,fwd-gg,electron-screen-recording-vue,jsMachineLearningTextColor&hide=pug,ejs,jade,scss,plpgsql&border_radius=10&bg_color=0d1117&title_color=ff6e96&text_color=9f9f9f&border_color=ff6e96&size_weight=0&count_weight=1)](https://github.com/robertjbass)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertjbass&theme=github-compact&bg_color=0d1117&color=79dafa&line=ff6e96&point=79dafa&area=true&hide_border=false&border_color=ff6e96&radius=10" alt="GitHub Activity Graph" style="max-width: 100%; width: 100%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertjbass&theme=github-compact&bg_color=0d1117&color=79dafa&line=ff6e96&point=79dafa&area=true&hide_border=false&border_color=ff6e96&radius=10&days=31" alt="GitHub Activity Graph" style="max-width: 100%; width: 100%;">
 
 _Note: JavaScript shown above includes compiled TypeScript output. View repos for source code._
 

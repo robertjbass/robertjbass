@@ -1,6 +1,6 @@
 # Additional GitHub README Card Options
 
-Previews of different GitHub stats cards to see which ones you'd like to add to your main README
+Previews of different GitHub stats cards to see which ones you'd like to add to your main README.
 
 ---
 

@@ -67,6 +67,7 @@ _My open source projects_
 [![Layerbase](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=layerbase&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/layerbase)
 [![GH Data Scraper](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=gh-data-scraper&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/gh-data-scraper)
 [![ReactX State Management](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=reactx-state-management&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/reactx-state-management)
+[![Electron Env Manager](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=electron-env-manager&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/electron-env-manager)
 
 </div>
 

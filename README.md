@@ -10,14 +10,14 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertjbass&theme=radical)
 
-![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)
+![Bob's GitHub stats](https://robertjbass-github-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)
 
-[![Bob's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertjbass&layout=compact&theme=radical&langs_count=14&exclude_repo=IAmTimCCourses,place-tracking-app,bbass-co,backslash,express-todo,react_crash_todo,react-currency-converter,svelte-jotpad,vue-product-app,react-class-component-ref,fwd-gg,electron-screen-recording-vue,jsMachineLearningTextColor&hide=pug,ejs,jade,scss,plpgsql&border_radius=10&bg_color=0d1117&title_color=ff6e96&text_color=9f9f9f&border_color=ff6e96&size_weight=0&count_weight=1)](https://github.com/robertjbass)
+[![Bob's Languages](https://robertjbass-github-stats.vercel.app/api/top-langs/?username=robertjbass&layout=compact&theme=radical&langs_count=14&exclude_repo=IAmTimCCourses,place-tracking-app,bbass-co,backslash,express-todo,react_crash_todo,react-currency-converter,svelte-jotpad,vue-product-app,react-class-component-ref,fwd-gg,electron-screen-recording-vue,jsMachineLearningTextColor&hide=pug,ejs,jade,scss,plpgsql&border_radius=10&bg_color=0d1117&title_color=ff6e96&text_color=9f9f9f&border_color=ff6e96&size_weight=0&count_weight=1)](https://github.com/robertjbass)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertjbass&theme=radical&border_radius=10&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&sideLabels=79dafa&currStreakNum=79dafa&dates=9f9f9f&sideNums=79dafa)](https://github.com/robertjbass)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertjbass&theme=github-compact&bg_color=0d1117&color=79dafa&line=ff6e96&point=79dafa&area=true&hide_border=false&border_color=ff6e96&radius=10&days=31" alt="GitHub Activity Graph" style="max-width: 100%; width: 100%;">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertjbass&theme=radical&column=-1&margin-w=10&margin-h=10&no-frame=false&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Stars,-PullRequest,-Issues" alt="Bob's Trophies" style="max-width: 100%; width: 100%;"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertjbass&theme=radical&column=4&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="Bob's Trophies"></a>
 
 </div>
 
@@ -59,15 +59,16 @@ _My open source projects_
 
 <div align="center">
 
-[![Dotport](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=dotport&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/dotport)
-[![NodePM UI](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=nodepm-ui&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/nodepm-ui)
-[![PGP](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=pgp&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/pgp)
-[![Ask Chat](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=ask-chat&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/ask-chat)
-[![Hey ChatGPT](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=hey-chatgpt&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/hey-chatgpt)
-[![Layerbase](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=layerbase&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/layerbase)
-[![GH Data Scraper](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=gh-data-scraper&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/gh-data-scraper)
-[![ReactX State Management](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=reactx-state-management&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/reactx-state-management)
-[![Electron Env Manager](https://github-readme-stats.vercel.app/api/pin/?username=robertjbass&repo=electron-env-manager&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/robertjbass/electron-env-manager)
+[![SpinDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=spindb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/spindb)
+[![Dotport](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=dotport&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/dotport)
+[![NodePM UI](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=nodepm-ui&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/nodepm-ui)
+[![PGP](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=pgp&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/pgp)
+[![Ask Chat](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=ask-chat&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/ask-chat)
+[![Hey ChatGPT](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hey-chatgpt&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/hey-chatgpt)
+[![Layerbase](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=layerbase&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/layerbase)
+[![GH Data Scraper](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=gh-data-scraper&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/gh-data-scraper)
+[![ReactX State Management](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=reactx-state-management&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/reactx-state-management)
+[![Electron Env Manager](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=electron-env-manager&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/electron-env-manager)
 
 </div>
 
@@ -79,7 +80,7 @@ _Open source projects I contribute to_
 
 <div align="center">
 
-[![Payload CMS](https://github-readme-stats.vercel.app/api/pin/?username=payloadcms&repo=payload&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=2)](https://github.com/payloadcms/payload)
+[![Payload CMS](https://robertjbass-github-stats.vercel.app/api/pin/?username=payloadcms&repo=payload&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/payloadcms/payload)
 
 </div>
 
@@ -124,6 +125,7 @@ _Technologies that I'm currently learning, playing with, or building passion-pro
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
 </p>
 
 ---
@@ -134,7 +136,7 @@ _Technologies that I'm currently learning, playing with, or building passion-pro
 - [Project NextApp (beta) needs some testers](https://dev.to/716green/project-nextapp-beta-needs-some-testers-3fm6)
 - [Leaving stability to bootstrap a SaaS startup](https://dev.to/716green/leaving-stability-to-bootstrap-a-saas-startup-175p)
 - [How to Become a Debt Buyer](https://coda.io/@bob/debt-buyer)
-- [Entrepreneur](https://coda.io/@narro/entrepreneur)
+- [15 Lessons I Learned as an Entrepreneur](https://coda.io/@narro/entrepreneur)
 
 ---
 

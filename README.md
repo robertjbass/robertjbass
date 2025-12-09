@@ -68,7 +68,6 @@ _My open source projects_
 [![Hey ChatGPT](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hey-chatgpt&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/hey-chatgpt)
 [![Layerbase](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=layerbase&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/layerbase)
 [![GH Data Scraper](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=gh-data-scraper&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/gh-data-scraper)
-[![ReactX State Management](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=reactx-state-management&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/reactx-state-management)
 [![Electron Env Manager](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=electron-env-manager&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/robertjbass/electron-env-manager)
 
 </div>

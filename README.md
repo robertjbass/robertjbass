@@ -69,6 +69,7 @@ _My open source projects_
 [![Layerbase](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=layerbase&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/layerbase)
 [![GH Data Scraper](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=gh-data-scraper&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/gh-data-scraper)
 [![Electron Env Manager](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=electron-env-manager&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/electron-env-manager)
+[![Local Code Raspi](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=local-code-raspi&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/local-code-raspi)
 
 </div>
 

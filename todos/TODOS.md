@@ -2,6 +2,11 @@
 
 ## Future Enhancements
 
+### Streak Stats Self-Hosting
+- [ ] Deploy [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) to Vercel
+- [ ] Add to existing `robertjbass-github-stats.vercel.app` deployment or create new one
+- [ ] Update README to use self-hosted URL instead of `streak-stats.demolab.com`
+
 ### Recent Activity
 - [ ] Set up GitHub Actions workflow for recent activity
 - [ ] Use [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)

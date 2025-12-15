@@ -14,7 +14,7 @@
 
 [![Bob's Languages](https://robertjbass-github-stats.vercel.app/api/top-langs/?username=robertjbass&layout=compact&theme=radical&langs_count=14&exclude_repo=IAmTimCCourses,place-tracking-app,bbass-co,backslash,express-todo,react_crash_todo,react-currency-converter,svelte-jotpad,vue-product-app,react-class-component-ref,fwd-gg,electron-screen-recording-vue,jsMachineLearningTextColor&hide=pug,ejs,jade,scss,plpgsql&border_radius=10&bg_color=0d1117&title_color=ff6e96&text_color=9f9f9f&border_color=ff6e96&size_weight=0&count_weight=1)](https://github.com/robertjbass)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=robertjbass&theme=radical&cache=v2)](https://github.com/robertjbass)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=robertjbass&theme=radical&cache=v3)](https://github.com/robertjbass)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertjbass&theme=github-compact&bg_color=0d1117&color=79dafa&line=ff6e96&point=79dafa&area=true&hide_border=false&border_color=ff6e96&radius=10&days=31" alt="GitHub Activity Graph" style="max-width: 100%; width: 100%;">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=robertjbass&theme=radical&column=3&margin-w=10&margin-h=10&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B" alt="Bob's Trophies"></a>

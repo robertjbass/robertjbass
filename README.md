@@ -17,7 +17,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=robertjbass&theme=radical&cache=v2)](https://github.com/robertjbass)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertjbass&theme=github-compact&bg_color=0d1117&color=79dafa&line=ff6e96&point=79dafa&area=true&hide_border=false&border_color=ff6e96&radius=10&days=31" alt="GitHub Activity Graph" style="max-width: 100%; width: 100%;">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=robertjbass&theme=radical&column=4&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="Bob's Trophies"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=robertjbass&theme=radical&column=3&margin-w=10&margin-h=10&no-frame=true&no-bg=true&rank=-?,-C" alt="Bob's Trophies"></a>
 
 </div>
 

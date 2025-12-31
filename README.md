@@ -29,7 +29,7 @@
 - 🛹 I'm a skateboarder
 - 🎸 I play guitar
 - 💼 I owned a debt collection agency for nearly a full decade before selling it to pursue software engineering full time
-- 🏆 My startup DebtOS was a 2020 Pioneer Startup competition winner
+- 🏆 My startup DebtOS was a 2020 Pioneer Startup Competition winner
 - 💙 My favorite language is TypeScript, my first language was C#
 - 🛠️ My favorite thing to build is developer tooling
 

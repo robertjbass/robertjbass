@@ -82,6 +82,7 @@ _Open source projects I contribute to_
 <div align="center">
 
 [![Payload CMS](https://robertjbass-github-stats.vercel.app/api/pin/?username=payloadcms&repo=payload&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/payloadcms/payload)
+[![MariaDB4j](https://robertjbass-github-stats.vercel.app/api/pin/?username=MariaDB4j&repo=MariaDB4j&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/MariaDB4j/MariaDB4j)
 
 </div>
 

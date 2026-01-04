@@ -60,6 +60,7 @@ _My open source projects_
 <div align="center">
 
 [![SpinDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=spindb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/spindb)
+[![HostDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hostdb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/hostdb)
 [![Hackerlab](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hackerlab&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/hackerlab)
 [![Dotport](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=dotport&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/dotport)
 [![NodePM UI](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=nodepm-ui&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/nodepm-ui)

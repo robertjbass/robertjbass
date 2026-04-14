@@ -35,9 +35,28 @@
 
 ---
 
+## Layerbase
+
+_Every database in seconds - the database management platform for developers_
+
+<a href="https://layerbase.com">Layerbase</a> is a database management ecosystem supporting 21 engines (PostgreSQL, MySQL, SQLite, MongoDB, Redis, DuckDB, ClickHouse, and more) across CLI, desktop, and cloud. Native binaries, no containers, no runtimes.
+
+- **SpinDB** - CLI database package manager replacing Docker, Homebrew, and DBngin for local development
+- **<a href="https://layerbase.com/desktop">Layerbase Desktop</a>** - Cross-platform database IDE for macOS, Windows, and Linux with visual management and query editing
+- **Layerbase Cloud** - Serverless platform for instant database instances
+
+<div align="center">
+
+[![SpinDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=spindb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/spindb)
+[![HostDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hostdb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/hostdb)
+
+</div>
+
+---
+
 ### My Companies
 
-- <a href="https://layerbase.com">Layerbase</a> - Custom Software Engineering and Consulting
+- <a href="https://layerbase.com">Layerbase</a> - Database management platform supporting 21 engines across CLI, desktop, and cloud
 
 - Narro Automation - Custom Business Automation (2018 - 2020)
 
@@ -59,8 +78,6 @@ _My open source projects_
 
 <div align="center">
 
-[![SpinDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=spindb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/spindb)
-[![HostDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hostdb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/hostdb)
 [![Hackerlab](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hackerlab&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/hackerlab)
 [![Dotport](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=dotport&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/dotport)
 [![NodePM UI](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=nodepm-ui&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/nodepm-ui)

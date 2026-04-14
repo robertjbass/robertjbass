@@ -41,9 +41,9 @@ _Every database in seconds - the database management platform for developers_
 
 <a href="https://layerbase.com">Layerbase</a> is a database management ecosystem supporting 21 engines (PostgreSQL, MySQL, SQLite, MongoDB, Redis, DuckDB, ClickHouse, and more) across CLI, desktop, and cloud. Native binaries, no containers, no runtimes.
 
-- **SpinDB** - CLI database package manager replacing Docker, Homebrew, and DBngin for local development
+- **<a href="https://github.com/robertjbass/spindb">SpinDB</a>** - CLI database package manager replacing Docker, Homebrew, and DBngin for local development
 - **<a href="https://layerbase.com/desktop">Layerbase Desktop</a>** - Cross-platform database IDE for macOS, Windows, and Linux with visual management and query editing
-- **Layerbase Cloud** - Serverless platform for instant database instances
+- **<a href="https://layerbase.com">Layerbase Cloud</a>** - Serverless platform for instant database instances
 
 <div align="center">
 

@@ -194,4 +194,4 @@ Most cards support custom theming. Your current theme colors are:
 - Text: `9f9f9f` (gray)
 - Border: `ff6e96` (pink)
 
-You can apply these to most cards using similar parameters!
+You can apply these to most cards using similar parameters

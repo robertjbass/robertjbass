@@ -1,0 +1,27 @@
+{
+  "name": "robertjbass-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.33.0",
+  "author": "Bob Bass",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertjbass/robertjbass.git"
+  },
+  "scripts": {
+    "generate": "tsx src/index.ts",
+    "format": "prettier --write ."
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  }
+}

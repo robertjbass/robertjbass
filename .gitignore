@@ -9,3 +9,12 @@
 .history/
 deleteme.txt
 FIX.md
+
+node_modules/
+
+# Generated cards are published to the orphan `output` branch by CI
+output/
+
+.env
+.env.*
+!.env.example

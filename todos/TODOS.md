@@ -1,74 +1,32 @@
 # GitHub Profile README TODOs
 
+## Done
+
+### Self-Hosted Profile Cards
+
+- [x] Replace every third-party widget (github-readme-stats, streak-stats, activity-graph, trophies, profile-summary-cards) with cards generated in this repo
+- [x] Build the generator: `src/fetch/*` data slices, `src/theme.ts` design system, `src/cards/*` renderers, `src/index.ts` entry point
+- [x] Publish generated SVGs to an orphan `output` branch and point the README at `raw.githubusercontent.com`
+- [x] Schedule regeneration every 6 hours via `.github/workflows/generate-profile.yml`
+- [x] Self-host the streak stats card (`streak-status.svg`) - no Vercel deployment or `demolab.com` dependency
+- [x] Self-host the activity graph (`activity-graph.svg`)
+- [x] Custom repo pins (`pin-*.svg`) driven by `FEATURED_REPOS`
+- [x] Drop the shields.io "My Stack" and "Learning" walls in favor of one line of prose
+
 ## Future Enhancements
 
-### Streak Stats Self-Hosting
-- [ ] Deploy [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) to Vercel
-- [ ] Add to existing `robertjbass-github-stats.vercel.app` deployment or create new one
-- [ ] Update README to use self-hosted URL instead of `streak-stats.demolab.com`
-
-### Recent Activity
-- [ ] Set up GitHub Actions workflow for recent activity
-- [ ] Use [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-- [ ] Add activity section to README with placeholder comments
-- [ ] Configure workflow to run on schedule (e.g., every hour)
-- [ ] Test that activity updates are appearing correctly
-
 ### Snake Animation (Eating Contributions)
-- [ ] Set up GitHub Actions workflow for snake animation
-- [ ] Use [Platane/snk](https://github.com/Platane/snk)
-- [ ] Configure workflow to generate SVG on schedule
-- [ ] Create `output` branch to store generated SVG
-- [ ] Add snake animation SVG to README
-- [ ] Verify animation is rendering correctly on profile
 
-## Resources
+- [ ] Decide whether to render the contribution snake in-house or add [Platane/snk](https://github.com/Platane/snk) as a second workflow writing into the same `output` branch
+- [ ] If in-house, needs the full 371-day contribution grid rather than the 60-day window currently fetched
 
-**Recent Activity Setup:**
-```yaml
-# .github/workflows/update-readme.yml
-name: Update README
+### Data Coverage
 
-on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch:
+- [ ] Contribution history for repo-count velocity so the "300 repositories" milestone can project a date instead of showing "N to go"
+- [ ] Widen the npm download window: the point endpoint clamps ranges to ~18 months, so older packages (ask-chat, nodepm-ui, lpgp) are undercounted in the all-time total
+- [ ] Backfill the full trailing 365 days of daily counts so the uptime figure on `streak-status.svg` is provable rather than "1 logged incident"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+### Cards
 
-**Snake Animation Setup:**
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: robertjbass
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+- [ ] Recent activity card (opened/merged PRs and releases across the last week) to replace the idea of a text-based activity feed
+- [ ] Now-playing or writing card if there is a non-rate-limited source worth pulling from

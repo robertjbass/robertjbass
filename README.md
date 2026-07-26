@@ -1,23 +1,159 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6E96&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Bob+Bass;Head+of+Engineering+at+Efficient+App;Layerbase.com+Serverless+DB+Founder;Full+Stack+Developer;TypeScript+Enthusiast;Former+Startup+Founder" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  🦬🗽 WNY → 🌉 SF → 🤠 ATX
-</p>
+<img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/header.svg" alt="Hi, I'm Bob Bass" width="840" />
+
+**Head of Engineering @ Efficient App · Founder of Layerbase**
+
+🦬🗽 WNY → 🌉 SF → 🤠 ATX
+
+<br />
+
+<img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/streak-status.svg" alt="Commit uptime" width="840" />
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/stats.svg" alt="GitHub stats" width="410" />
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/milestones.svg" alt="Upcoming milestones" width="410" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Layerbase
+
+_Every database in seconds - the database management platform for developers_
+
+<a href="https://layerbase.com">Layerbase</a> is a database management ecosystem supporting 20+ engines (PostgreSQL, MySQL, SQLite, MongoDB, Redis, DuckDB, ClickHouse, and more) across CLI, desktop, and cloud. Native binaries, no containers, no runtimes.
+
+- **<a href="https://github.com/robertjbass/spindb">SpinDB</a>** - CLI database package manager replacing Docker, Homebrew, and DBngin for local development
+- **<a href="https://layerbase.com/desktop">Layerbase Desktop</a>** - Cross-platform database IDE for macOS, Windows, and Linux with visual management and query editing
+- **<a href="https://layerbase.com">Layerbase Cloud</a>** - Serverless platform for instant database instances
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertjbass&theme=radical)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/spindb"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-spindb.svg" alt="spindb" width="410" /></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/hostdb"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-hostdb.svg" alt="hostdb" width="410" /></a>
+    </td>
+  </tr>
+</table>
 
-![Bob's GitHub stats](https://robertjbass-github-stats.vercel.app/api?username=robertjbass&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)
+<img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/engine-roster.svg" alt="Database engines supported by Layerbase" width="840" />
 
-[![Bob's Languages](https://robertjbass-github-stats.vercel.app/api/top-langs/?username=robertjbass&layout=compact&theme=radical&langs_count=14&exclude_repo=IAmTimCCourses,place-tracking-app,bbass-co,backslash,express-todo,react_crash_todo,react-currency-converter,svelte-jotpad,vue-product-app,react-class-component-ref,fwd-gg,electron-screen-recording-vue,jsMachineLearningTextColor&hide=pug,ejs,jade,scss,plpgsql&border_radius=10&bg_color=0d1117&title_color=ff6e96&text_color=9f9f9f&border_color=ff6e96&size_weight=0&count_weight=1)](https://github.com/robertjbass)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=robertjbass&theme=radical&v=20260503)](https://github.com/robertjbass)
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertjbass&theme=github-compact&bg_color=0d1117&color=79dafa&line=ff6e96&point=79dafa&area=true&hide_border=false&border_color=ff6e96&radius=10&days=31" alt="GitHub Activity Graph" style="max-width: 100%; width: 100%;">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=robertjbass&theme=radical&column=3&margin-w=10&margin-h=10&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B" alt="Bob's Trophies"></a>
+## npm
+
+_Packages I maintain on <a href="https://www.npmjs.com/~bobdotjs">npm</a>_
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/npm-downloads.svg" alt="npm downloads" width="840" />
+
+</div>
+
+---
+
+## Code
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/oss-scoreboard.svg" alt="Open source contributions" width="410" />
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/languages.svg" alt="Top languages" width="410" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/activity-graph.svg" alt="Contribution activity over the last 31 days" width="840" />
+
+</div>
+
+Mostly TypeScript and Node.js - React, Next.js, Vue, Nuxt, Tailwind, PayloadCMS on the front, PostgreSQL, MySQL, and SQLite behind it, shipped on AWS and Vercel. C# was my first language, and Go, Rust, and Zig are where I spend my curiosity budget.
+
+---
+
+## My Repos
+
+_My open source projects_
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/hackerlab"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-hackerlab.svg" alt="hackerlab" width="410" /></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/dotport"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-dotport.svg" alt="dotport" width="410" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/nodepm-ui"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-nodepm-ui.svg" alt="nodepm-ui" width="410" /></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/lpgp"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-lpgp.svg" alt="lpgp" width="410" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/ask-chat"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-ask-chat.svg" alt="ask-chat" width="410" /></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/hey-chatgpt"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-hey-chatgpt.svg" alt="hey-chatgpt" width="410" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/robertjbass/gh-data-scraper"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-gh-data-scraper.svg" alt="gh-data-scraper" width="410" /></a>
+    </td>
+    <td valign="top"></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Open Source Contributions
+
+_Open source projects I contribute to_
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/payloadcms/payload"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-payload.svg" alt="payloadcms/payload" width="410" /></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/MariaDB4j/MariaDB4j"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-mariadb4j.svg" alt="MariaDB4j/MariaDB4j" width="410" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/PostHog/duckgres"><img src="https://raw.githubusercontent.com/robertjbass/robertjbass/output/pin-duckgres.svg" alt="PostHog/duckgres" width="410" /></a>
+    </td>
+    <td valign="top"></td>
+  </tr>
+</table>
 
 </div>
 
@@ -35,28 +171,9 @@
 
 ---
 
-## Layerbase
+## My Companies
 
-_Every database in seconds - the database management platform for developers_
-
-<a href="https://layerbase.com">Layerbase</a> is a database management ecosystem supporting 21 engines (PostgreSQL, MySQL, SQLite, MongoDB, Redis, DuckDB, ClickHouse, and more) across CLI, desktop, and cloud. Native binaries, no containers, no runtimes.
-
-- **<a href="https://github.com/robertjbass/spindb">SpinDB</a>** - CLI database package manager replacing Docker, Homebrew, and DBngin for local development
-- **<a href="https://layerbase.com/desktop">Layerbase Desktop</a>** - Cross-platform database IDE for macOS, Windows, and Linux with visual management and query editing
-- **<a href="https://layerbase.com">Layerbase Cloud</a>** - Serverless platform for instant database instances
-
-<div align="center">
-
-[![SpinDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=spindb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/spindb)
-[![HostDB](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hostdb&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/hostdb)
-
-</div>
-
----
-
-### My Companies
-
-- <a href="https://layerbase.com">Layerbase</a> - Database management platform supporting 21 engines across CLI, desktop, and cloud
+- <a href="https://layerbase.com">Layerbase</a> - Database management platform supporting 20+ engines across CLI, desktop, and cloud
 
 - Narro Automation - Custom Business Automation (2018 - 2020)
 
@@ -69,84 +186,6 @@ _Every database in seconds - the database management platform for developers_
 - Lead Engineer - Products Team | Biopharma
 - IC - Stealth Startup | AI Video Processing
 - IC Contractor - Funded Startup | AI Infrastructure
-
----
-
-## My Repos
-
-_My open source projects_
-
-<div align="center">
-
-[![Hackerlab](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hackerlab&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/hackerlab)
-[![Dotport](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=dotport&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/dotport)
-[![NodePM UI](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=nodepm-ui&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/nodepm-ui)
-[![PGP](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=pgp&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/pgp)
-[![Ask Chat](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=ask-chat&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/ask-chat)
-[![Hey ChatGPT](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=hey-chatgpt&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/hey-chatgpt)
-[![GH Data Scraper](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=gh-data-scraper&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/gh-data-scraper)
-[![Electron Env Manager](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=electron-env-manager&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/electron-env-manager)
-[![Local Code Raspi](https://robertjbass-github-stats.vercel.app/api/pin/?username=robertjbass&repo=local-code-raspi&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96&description_lines_count=3)](https://github.com/robertjbass/local-code-raspi)
-
-</div>
-
----
-
-## Open Source Contributions
-
-_Open source projects I contribute to_
-
-<div align="center">
-
-[![Payload CMS](https://robertjbass-github-stats.vercel.app/api/pin/?username=payloadcms&repo=payload&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/payloadcms/payload)
-[![MariaDB4j](https://robertjbass-github-stats.vercel.app/api/pin/?username=MariaDB4j&repo=MariaDB4j&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/MariaDB4j/MariaDB4j)
-[![Duckgres](https://robertjbass-github-stats.vercel.app/api/pin/?username=PostHog&repo=duckgres&theme=radical&border_radius=10&bg_color=0d1117&title_color=ff6e96&icon_color=79dafa&text_color=9f9f9f&border_color=ff6e96)](https://github.com/PostHog/duckgres)
-
-</div>
-
----
-
-## My Stack
-
-_Technologies that I'm passionate about_
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/PayloadCMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" alt="PayloadCMS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
-</p>
-
----
-
-## Learning
-
-_Technologies that I'm currently learning, playing with, or building passion-projects with (non-comprehensive)_
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
-</p>
 
 ---
 
@@ -192,3 +231,7 @@ _Technologies that I'm currently learning, playing with, or building passion-pro
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<div align="center">
+<sub>Every card on this page is generated from live data by <a href="https://github.com/robertjbass/robertjbass/tree/main/src">this repo</a> and published to the <a href="https://github.com/robertjbass/robertjbass/tree/output">output branch</a> - no third-party widgets, no rate limits.</sub>
+</div>

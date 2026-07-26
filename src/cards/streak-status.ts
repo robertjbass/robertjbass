@@ -73,9 +73,16 @@ type Incident = {
   daysAgo: number
 }
 
+type RecordStreak = {
+  days: number
+  endDate: string | null
+  ongoing: boolean
+}
+
 type StreakStatusModel = {
   status: 'operational' | 'incident'
   streakDays: number
+  record: RecordStreak | null
   ticks: Tick[]
   uptimeRatio: number
   /** Days in the uptime window that actually carry a contribution count. */
@@ -94,6 +101,8 @@ export function renderStreakStatus(data: ProfileData): string {
     dailyCounts: github.dailyCounts,
     streakDays: github.currentStreakDays,
     lastZeroDate: github.lastZeroDate,
+    longestStreakDays: github.longestStreakDays,
+    longestStreakEndDate: github.longestStreakEndDate,
     generatedAt: data.generatedAt,
   })
 
@@ -114,6 +123,7 @@ export function renderStreakStatus(data: ProfileData): string {
     renderAxis({ innerWidth, days: model.ticks.length }),
     separator({ y: FOOTER_SEPARATOR_Y, width: innerWidth }),
     renderIncidentLine({ incident: model.lastIncident }),
+    renderRecordLine({ record: model.record }),
     renderProgressLabel({
       streakDays: model.streakDays,
       remainingDays: model.remainingDays,
@@ -342,6 +352,37 @@ function renderIncidentLine(options: { incident: Incident | null }): string {
   })
 }
 
+function renderRecordLine(options: { record: RecordStreak | null }): string {
+  const { record } = options
+  if (!record || record.days <= 0) return ''
+
+  const qualifier = record.ongoing
+    ? 'ongoing'
+    : record.endDate
+      ? formatMonthYear(record.endDate)
+      : null
+  const content = [
+    `<tspan>record </tspan>`,
+    `<tspan font-weight="600" fill="${COLORS.value}">${escapeXml(formatNumber(record.days))} days</tspan>`,
+    ...(qualifier
+      ? [
+          `<tspan dx="10" opacity="0.5">·</tspan>`,
+          `<tspan dx="10" fill="${record.ongoing ? COLORS.healthy : resolveColor('body')}">${escapeXml(qualifier)}</tspan>`,
+        ]
+      : []),
+  ].join('')
+
+  return svgText({
+    content,
+    x: CARD_WIDTH.FULL / 2,
+    y: FOOTER_BASELINE_Y,
+    size: FONT_SIZE.body,
+    font: 'mono',
+    anchor: 'middle',
+    raw: true,
+  })
+}
+
 function renderProgressLabel(options: {
   streakDays: number
   remainingDays: number
@@ -388,9 +429,18 @@ function buildModel(options: {
   dailyCounts: ContributionDay[]
   streakDays: number
   lastZeroDate: string | null
+  longestStreakDays: number
+  longestStreakEndDate: string | null
   generatedAt: string
 }): StreakStatusModel {
-  const { dailyCounts, streakDays, lastZeroDate, generatedAt } = options
+  const {
+    dailyCounts,
+    streakDays,
+    lastZeroDate,
+    longestStreakDays,
+    longestStreakEndDate,
+    generatedAt,
+  } = options
 
   const today = resolveToday({ dailyCounts, generatedAt })
   const counts = new Map(dailyCounts.map((day) => [day.date, day.count]))
@@ -416,6 +466,14 @@ function buildModel(options: {
   return {
     status: streakDays > 0 ? 'operational' : 'incident',
     streakDays,
+    record:
+      longestStreakDays > 0
+        ? {
+            days: longestStreakDays,
+            endDate: longestStreakEndDate,
+            ongoing: streakDays > 0 && streakDays >= longestStreakDays,
+          }
+        : null,
     ticks,
     uptimeRatio:
       measuredDays > 0 ? (measuredDays - missedDays) / measuredDays : 1,
@@ -475,6 +533,12 @@ function formatLongDate(date: string): string {
   const parsed = parseIsoDate(date)
   const month = MONTH_LABELS[parsed.getUTCMonth()] ?? ''
   return `${month} ${parsed.getUTCDate()}, ${parsed.getUTCFullYear()}`
+}
+
+function formatMonthYear(date: string): string {
+  const parsed = parseIsoDate(date)
+  const month = MONTH_LABELS[parsed.getUTCMonth()] ?? ''
+  return `${month} ${parsed.getUTCFullYear()}`
 }
 
 function formatShortDate(date: string): string {

@@ -1,7 +1,8 @@
 const GITHUB_GRAPHQL_URL = 'https://api.github.com/graphql'
 const DEFAULT_LOGIN = 'robertjbass'
 const LAYERBASE_ORG = 'Layerbase-LLC'
-const CALENDAR_YEARS = 2
+const MIN_CALENDAR_YEARS = 2
+const MAX_CALENDAR_YEARS = 15
 /** Covers the full 365-day window the commit uptime card reports on, plus today. */
 const DAILY_COUNT_WINDOW = 366
 
@@ -123,8 +124,11 @@ export type GithubData = {
   streakStartDate: string | null
   lastZeroDate: string | null
   totalContributionsPastYear: number
-  totalContributionsTwoYears: number
-  longestZeroFreeWindowDays: number
+  /** Sum over the full fetched calendar, back to account creation. */
+  totalContributionsAllTime: number
+  longestStreakDays: number
+  longestStreakStartDate: string | null
+  longestStreakEndDate: string | null
   dailyCounts: ContributionDay[]
   languages: LanguageUsage[]
   repos: RepoSummary[]
@@ -135,9 +139,12 @@ export async function fetchGithubData(
 ): Promise<GithubData> {
   const login = options.login ?? DEFAULT_LOGIN
 
-  const [profile, calendar, languages, repos] = await Promise.all([
-    fetchProfileCounts({ login }),
-    fetchContributionCalendar({ login }),
+  const profile = await fetchProfileCounts({ login })
+  const [calendar, languages, repos] = await Promise.all([
+    fetchContributionCalendar({
+      login,
+      years: resolveCalendarYears(profile.createdAt),
+    }),
     fetchLanguageUsage({ login }),
     fetchFeaturedRepos(),
   ])
@@ -155,8 +162,10 @@ export async function fetchGithubData(
     streakStartDate: streak.streakStartDate,
     lastZeroDate: streak.lastZeroDate,
     totalContributionsPastYear: calendar.totalPastYear,
-    totalContributionsTwoYears: calendar.totalTwoYears,
-    longestZeroFreeWindowDays: streak.longestZeroFreeWindowDays,
+    totalContributionsAllTime: calendar.totalAllTime,
+    longestStreakDays: streak.longestStreakDays,
+    longestStreakStartDate: streak.longestStreakStartDate,
+    longestStreakEndDate: streak.longestStreakEndDate,
     dailyCounts: calendar.days.slice(-DAILY_COUNT_WINDOW),
     languages,
     repos,
@@ -168,6 +177,7 @@ type ProfileCounts = {
   repoCount: number
   publicRepoCount: number
   layerbaseRepoCount: number
+  createdAt: string
 }
 
 async function fetchProfileCounts(options: {
@@ -178,12 +188,14 @@ async function fetchProfileCounts(options: {
       followers: { totalCount: number }
       owned: { totalCount: number }
       publicOwned: { totalCount: number }
+      createdAt: string
     }
     organization: { repositories: { totalCount: number } } | null
   }>({
     query: `
       query ProfileCounts($login: String!, $org: String!) {
         user(login: $login) {
+          createdAt
           followers { totalCount }
           owned: repositories(ownerAffiliations: OWNER) { totalCount }
           publicOwned: repositories(
@@ -204,7 +216,15 @@ async function fetchProfileCounts(options: {
     repoCount: data.user.owned.totalCount,
     publicRepoCount: data.user.publicOwned.totalCount,
     layerbaseRepoCount: data.organization?.repositories.totalCount ?? 0,
+    createdAt: data.user.createdAt,
   }
+}
+
+/** Enough one-year calendar windows to reach back to account creation. */
+function resolveCalendarYears(createdAt: string): number {
+  const ageMs = Date.now() - new Date(createdAt).getTime()
+  const ageYears = Math.ceil(ageMs / (365 * 86_400_000))
+  return Math.min(MAX_CALENDAR_YEARS, Math.max(MIN_CALENDAR_YEARS, ageYears))
 }
 
 type CalendarWindow = {
@@ -215,14 +235,15 @@ type CalendarWindow = {
 type CalendarResult = {
   days: ContributionDay[]
   totalPastYear: number
-  totalTwoYears: number
+  totalAllTime: number
 }
 
 async function fetchContributionCalendar(options: {
   login: string
+  years: number
 }): Promise<CalendarResult> {
   const today = startOfUtcDay(new Date())
-  const ranges = buildYearRanges({ today, years: CALENDAR_YEARS })
+  const ranges = buildYearRanges({ today, years: options.years })
 
   const windows = await Promise.all(
     ranges.map(async (range) => {
@@ -273,7 +294,7 @@ async function fetchContributionCalendar(options: {
   return {
     days,
     totalPastYear: windows.at(-1)?.totalContributions ?? 0,
-    totalTwoYears: days.reduce((total, day) => total + day.count, 0),
+    totalAllTime: days.reduce((total, day) => total + day.count, 0),
   }
 }
 
@@ -297,7 +318,9 @@ type StreakResult = {
   currentStreakDays: number
   streakStartDate: string | null
   lastZeroDate: string | null
-  longestZeroFreeWindowDays: number
+  longestStreakDays: number
+  longestStreakStartDate: string | null
+  longestStreakEndDate: string | null
 }
 
 export function computeStreak(days: ContributionDay[]): StreakResult {
@@ -306,7 +329,9 @@ export function computeStreak(days: ContributionDay[]): StreakResult {
       currentStreakDays: 0,
       streakStartDate: null,
       lastZeroDate: null,
-      longestZeroFreeWindowDays: 0,
+      longestStreakDays: 0,
+      longestStreakStartDate: null,
+      longestStreakEndDate: null,
     }
   }
 
@@ -329,14 +354,23 @@ export function computeStreak(days: ContributionDay[]): StreakResult {
     streakStartDate = day.date
   }
 
-  let longestZeroFreeWindowDays = 0
+  let longestStreakDays = 0
+  let longestStreakStartDate: string | null = null
+  let longestStreakEndDate: string | null = null
   let run = 0
+  let runStartDate: string | null = null
   for (const day of days) {
     if (day.count > 0) {
+      if (run === 0) runStartDate = day.date
       run += 1
-      longestZeroFreeWindowDays = Math.max(longestZeroFreeWindowDays, run)
+      if (run > longestStreakDays) {
+        longestStreakDays = run
+        longestStreakStartDate = runStartDate
+        longestStreakEndDate = day.date
+      }
     } else {
       run = 0
+      runStartDate = null
     }
   }
 
@@ -344,7 +378,9 @@ export function computeStreak(days: ContributionDay[]): StreakResult {
     currentStreakDays,
     streakStartDate,
     lastZeroDate,
-    longestZeroFreeWindowDays,
+    longestStreakDays,
+    longestStreakStartDate,
+    longestStreakEndDate,
   }
 }
 

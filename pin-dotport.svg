@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="148" viewBox="0 0 410 148" role="img" aria-label="robertjbass/dotport: 1 stars, 0 forks, TypeScript">
+<title>robertjbass/dotport: 1 stars, 0 forks, TypeScript</title>
+<rect x="0.5" y="0.5" width="409" height="147" rx="10" fill="#0d1117" stroke="#ff6e96" stroke-opacity="0.4" stroke-width="1" />
+<text x="18" y="28" fill="#79dafa" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">▸</text>
+<text x="34" y="28" fill="#ff6e96" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="600">dotport</text>
+<line x1="18" y1="40" x2="392" y2="40" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="60" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">A lightweight tool that snapshots and restores your entire</text>
+<text x="18" y="77" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">system configuration and dotfiles, making new-machine setup</text>
+<text x="18" y="94" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">fast, consistent, and painless</text>
+<line x1="18" y1="108" x2="392" y2="108" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<circle cx="22" cy="124" r="3.5" fill="#3178c6" />
+<text x="33" y="128" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" opacity="0.9">TypeScript</text>
+<polygon points="332.59,118.4 334.07,121.96 337.92,122.27 334.99,124.78 335.88,128.53 332.59,126.52 329.3,128.53 330.2,124.78 327.27,122.27 331.11,121.96" fill="#79dafa"><animate attributeName="opacity" from="0.35" to="1" dur="0.7s" begin="0.2s" fill="freeze" /></polygon>
+<text x="351.296" y="128" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">1</text>
+<path d="M368.9 119.6 V123.4 H377.7 V119.6 M373.3 123.4 V128.4" fill="none" stroke="#79dafa" stroke-width="1.3" stroke-linecap="round" />
+<circle cx="368.9" cy="119.6" r="1.7" fill="#79dafa" />
+<circle cx="377.7" cy="119.6" r="1.7" fill="#79dafa" />
+<circle cx="373.3" cy="128.4" r="1.7" fill="#79dafa" />
+<text x="392" y="128" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">0</text>
+</svg>

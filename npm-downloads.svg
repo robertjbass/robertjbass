@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="365" viewBox="0 0 840 365" role="img" aria-label="npm downloads: 64,031 all-time across 11 packages">
+<title>npm downloads: 64,031 all-time across 11 packages</title>
+<defs><linearGradient id="npm-bar-gradient" gradientUnits="userSpaceOnUse" x1="178" y1="0" x2="758" y2="0"><stop offset="0" stop-color="#ff6e96" /><stop offset="1" stop-color="#79dafa" /></linearGradient></defs>
+<rect x="0.5" y="0.5" width="839" height="364" rx="10" fill="#0d1117" stroke="#ff6e96" stroke-opacity="0.4" stroke-width="1" />
+<text x="18" y="28" fill="#79dafa" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">▸</text>
+<text x="34" y="28" fill="#ff6e96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.4">npm downloads</text>
+<text x="822" y="28" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" text-anchor="end" opacity="0.75">11 packages</text>
+<line x1="18" y1="40" x2="822" y2="40" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="78" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="30" font-weight="600" letter-spacing="-0.5">64,031</text>
+<text x="138" y="78" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="0.3">downloads and counting</text>
+<text x="822" y="66" fill="#79dafa" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">255.9 / day</text>
+<text x="822" y="84" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" text-anchor="end" opacity="0.8">93.4k projected / yr</text>
+<line x1="18" y1="104" x2="822" y2="104" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="126" fill="#ff6e96" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600">spindb</text>
+<rect x="178" y="118" width="580" height="9" rx="4.5" fill="#9f9f9f" opacity="0.08" />
+<rect x="178" y="118" width="580" height="9" rx="4.5" fill="url(#npm-bar-gradient)"><animate attributeName="width" from="0" to="580" dur="0.9s" begin="0.15s" fill="freeze" /></rect>
+<text x="822" y="126" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">34,965</text>
+<line x1="18" y1="136" x2="822" y2="136" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="153" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">hostdb</text>
+<rect x="178" y="145" width="580" height="9" rx="4.5" fill="#9f9f9f" opacity="0.08" />
+<rect x="178" y="145" width="439" height="9" rx="4.5" fill="url(#npm-bar-gradient)"><animate attributeName="width" from="0" to="439" dur="0.9s" begin="0.22s" fill="freeze" /></rect>
+<text x="822" y="153" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">18,207</text>
+<line x1="18" y1="163" x2="822" y2="163" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="180" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">ask-chat</text>
+<rect x="178" y="172" width="580" height="9" rx="4.5" fill="#9f9f9f" opacity="0.08" />
+<rect x="178" y="172" width="230.2" height="9" rx="4.5" fill="url(#npm-bar-gradient)"><animate attributeName="width" from="0" to="230.2" dur="0.9s" begin="0.29s" fill="freeze" /></rect>
+<text x="822" y="180" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">3,805</text>
+<line x1="18" y1="190" x2="822" y2="190" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="207" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">layerbase</text>
+<rect x="178" y="199" width="580" height="9" rx="4.5" fill="#9f9f9f" opacity="0.08" />
+<rect x="178" y="199" width="216.1" height="9" rx="4.5" fill="url(#npm-bar-gradient)"><animate attributeName="width" from="0" to="216.1" dur="0.9s" begin="0.36s" fill="freeze" /></rect>
+<text x="822" y="207" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">3,246</text>
+<line x1="18" y1="217" x2="822" y2="217" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="234" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">lpgp</text>
+<rect x="178" y="226" width="580" height="9" rx="4.5" fill="#9f9f9f" opacity="0.08" />
+<rect x="178" y="226" width="153.6" height="9" rx="4.5" fill="url(#npm-bar-gradient)"><animate attributeName="width" from="0" to="153.6" dur="0.9s" begin="0.43s" fill="freeze" /></rect>
+<text x="822" y="234" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">1,338</text>
+<line x1="18" y1="244" x2="822" y2="244" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="261" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">nodepm-ui</text>
+<rect x="178" y="253" width="580" height="9" rx="4.5" fill="#9f9f9f" opacity="0.08" />
+<rect x="178" y="253" width="138.6" height="9" rx="4.5" fill="url(#npm-bar-gradient)"><animate attributeName="width" from="0" to="138.6" dur="0.9s" begin="0.50s" fill="freeze" /></rect>
+<text x="822" y="261" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">1,014</text>
+<line x1="18" y1="271" x2="822" y2="271" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="288" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">payload-client-query</text>
+<rect x="178" y="280" width="580" height="9" rx="4.5" fill="#9f9f9f" opacity="0.08" />
+<rect x="178" y="280" width="107" height="9" rx="4.5" fill="url(#npm-bar-gradient)"><animate attributeName="width" from="0" to="107" dur="0.9s" begin="0.57s" fill="freeze" /></rect>
+<text x="822" y="288" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">487</text>
+<line x1="18" y1="298" x2="822" y2="298" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="315" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">dotport</text>
+<rect x="178" y="307" width="580" height="9" rx="4.5" fill="#9f9f9f" opacity="0.08" />
+<rect x="178" y="307" width="99.3" height="9" rx="4.5" fill="url(#npm-bar-gradient)"><animate attributeName="width" from="0" to="99.3" dur="0.9s" begin="0.64s" fill="freeze" /></rect>
+<text x="822" y="315" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">391</text>
+<line x1="18" y1="325" x2="822" y2="325" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="341" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.75">+3 more packages</text>
+<text x="822" y="341" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" text-anchor="end" opacity="0.75">578 downloads</text>
+</svg>

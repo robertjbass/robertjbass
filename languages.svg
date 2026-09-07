@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="220" viewBox="0 0 410 220" role="img" aria-label="top languages: TypeScript 75.6%, CSS 12.9%, Vue 3.6% across 24 languages">
+<title>top languages: TypeScript 75.6%, CSS 12.9%, Vue 3.6% across 24 languages</title>
+<defs><clipPath id="languages-bar-clip"><rect x="18" y="54" width="374" height="10" rx="5"><animate attributeName="width" from="0" to="374" dur="0.9s" begin="0.15s" fill="freeze" /></rect></clipPath></defs>
+<rect x="0.5" y="0.5" width="409" height="219" rx="10" fill="#0d1117" stroke="#ff6e96" stroke-opacity="0.4" stroke-width="1" />
+<text x="18" y="28" fill="#79dafa" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">▸</text>
+<text x="34" y="28" fill="#ff6e96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.4">top languages</text>
+<text x="392" y="28" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" text-anchor="end" opacity="0.75">24 tracked</text>
+<line x1="18" y1="40" x2="392" y2="40" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<rect x="18" y="54" width="374" height="10" rx="5" fill="#9f9f9f" opacity="0.1" />
+<g clip-path="url(#languages-bar-clip)">
+<rect x="18" y="54" width="279.4" height="10" fill="#3178c6" />
+<rect x="297.4" y="54" width="47.6" height="10" fill="#663399" />
+<rect x="345" y="54" width="13.5" height="10" fill="#41b883" />
+<rect x="358.5" y="54" width="11.3" height="10" fill="#89e051" />
+<rect x="369.8" y="54" width="8" height="10" fill="#f1e05a" />
+<rect x="377.8" y="54" width="3.3" height="10" fill="#e34c26" />
+<rect x="381.1" y="54" width="2.8" height="10" fill="#7355dd" />
+<rect x="383.9" y="54" width="2.1" height="10" fill="#00ADD8" />
+<rect x="386" y="54" width="2" height="10" fill="#384d54" />
+<rect x="388" y="54" width="2" height="10" fill="#3572A5" />
+<rect x="390" y="54" width="2" height="10" fill="#9f9f9f" />
+</g>
+<circle cx="22" cy="82" r="3.5" fill="#3178c6" />
+<text x="33" y="86" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">TypeScript</text>
+<text x="196" y="86" fill="#ff6e96" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end">75.6%</text>
+<circle cx="22" cy="102" r="3.5" fill="#663399" />
+<text x="33" y="106" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">CSS</text>
+<text x="196" y="106" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">12.9%</text>
+<circle cx="22" cy="122" r="3.5" fill="#41b883" />
+<text x="33" y="126" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Vue</text>
+<text x="196" y="126" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">3.6%</text>
+<circle cx="22" cy="142" r="3.5" fill="#89e051" />
+<text x="33" y="146" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Shell</text>
+<text x="196" y="146" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">3.0%</text>
+<circle cx="22" cy="162" r="3.5" fill="#f1e05a" />
+<text x="33" y="166" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">JavaScript</text>
+<text x="196" y="166" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">2.2%</text>
+<circle cx="218" cy="82" r="3.5" fill="#e34c26" />
+<text x="229" y="86" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">HTML</text>
+<text x="392" y="86" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">0.90%</text>
+<circle cx="218" cy="102" r="3.5" fill="#7355dd" />
+<text x="229" y="106" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">C#</text>
+<text x="392" y="106" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">0.74%</text>
+<circle cx="218" cy="122" r="3.5" fill="#00ADD8" />
+<text x="229" y="126" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Go</text>
+<text x="392" y="126" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">0.57%</text>
+<circle cx="218" cy="142" r="3.5" fill="#384d54" />
+<text x="229" y="146" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Dockerfile</text>
+<text x="392" y="146" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">0.13%</text>
+<circle cx="218" cy="162" r="3.5" fill="#3572A5" />
+<text x="229" y="166" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Python</text>
+<text x="392" y="166" fill="#e6edf3" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" opacity="0.85">0.09%</text>
+<line x1="18" y1="179" x2="392" y2="179" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="200" fill="#79dafa" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11">▸</text>
+<text x="34" y="200" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" opacity="0.8">+14 more languages</text>
+<text x="392" y="200" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" text-anchor="end" opacity="0.75">30.6 MB indexed</text>
+</svg>

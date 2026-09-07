@@ -1,0 +1,2314 @@
+{
+  "generatedAt": "2026-09-07T03:10:47.156Z",
+  "github": {
+    "login": "robertjbass",
+    "followers": 75,
+    "repoCount": 287,
+    "publicRepoCount": 230,
+    "layerbaseRepoCount": 18,
+    "totalRepoCount": 305,
+    "currentStreakDays": 369,
+    "streakStartDate": "2025-09-03",
+    "lastZeroDate": "2025-09-02",
+    "totalContributionsPastYear": 29381,
+    "totalContributionsAllTime": 39511,
+    "longestStreakDays": 369,
+    "longestStreakStartDate": "2025-09-03",
+    "longestStreakEndDate": "2026-09-06",
+    "dailyCounts": [
+      {
+        "date": "2025-09-07",
+        "count": 1
+      },
+      {
+        "date": "2025-09-08",
+        "count": 24
+      },
+      {
+        "date": "2025-09-09",
+        "count": 20
+      },
+      {
+        "date": "2025-09-10",
+        "count": 12
+      },
+      {
+        "date": "2025-09-11",
+        "count": 8
+      },
+      {
+        "date": "2025-09-12",
+        "count": 7
+      },
+      {
+        "date": "2025-09-13",
+        "count": 1
+      },
+      {
+        "date": "2025-09-14",
+        "count": 1
+      },
+      {
+        "date": "2025-09-15",
+        "count": 4
+      },
+      {
+        "date": "2025-09-16",
+        "count": 5
+      },
+      {
+        "date": "2025-09-17",
+        "count": 2
+      },
+      {
+        "date": "2025-09-18",
+        "count": 9
+      },
+      {
+        "date": "2025-09-19",
+        "count": 2
+      },
+      {
+        "date": "2025-09-20",
+        "count": 2
+      },
+      {
+        "date": "2025-09-21",
+        "count": 1
+      },
+      {
+        "date": "2025-09-22",
+        "count": 2
+      },
+      {
+        "date": "2025-09-23",
+        "count": 7
+      },
+      {
+        "date": "2025-09-24",
+        "count": 20
+      },
+      {
+        "date": "2025-09-25",
+        "count": 18
+      },
+      {
+        "date": "2025-09-26",
+        "count": 12
+      },
+      {
+        "date": "2025-09-27",
+        "count": 1
+      },
+      {
+        "date": "2025-09-28",
+        "count": 2
+      },
+      {
+        "date": "2025-09-29",
+        "count": 4
+      },
+      {
+        "date": "2025-09-30",
+        "count": 11
+      },
+      {
+        "date": "2025-10-01",
+        "count": 12
+      },
+      {
+        "date": "2025-10-02",
+        "count": 10
+      },
+      {
+        "date": "2025-10-03",
+        "count": 13
+      },
+      {
+        "date": "2025-10-04",
+        "count": 1
+      },
+      {
+        "date": "2025-10-05",
+        "count": 1
+      },
+      {
+        "date": "2025-10-06",
+        "count": 10
+      },
+      {
+        "date": "2025-10-07",
+        "count": 14
+      },
+      {
+        "date": "2025-10-08",
+        "count": 2
+      },
+      {
+        "date": "2025-10-09",
+        "count": 6
+      },
+      {
+        "date": "2025-10-10",
+        "count": 1
+      },
+      {
+        "date": "2025-10-11",
+        "count": 1
+      },
+      {
+        "date": "2025-10-12",
+        "count": 2
+      },
+      {
+        "date": "2025-10-13",
+        "count": 35
+      },
+      {
+        "date": "2025-10-14",
+        "count": 9
+      },
+      {
+        "date": "2025-10-15",
+        "count": 40
+      },
+      {
+        "date": "2025-10-16",
+        "count": 10
+      },
+      {
+        "date": "2025-10-17",
+        "count": 37
+      },
+      {
+        "date": "2025-10-18",
+        "count": 1
+      },
+      {
+        "date": "2025-10-19",
+        "count": 1
+      },
+      {
+        "date": "2025-10-20",
+        "count": 26
+      },
+      {
+        "date": "2025-10-21",
+        "count": 12
+      },
+      {
+        "date": "2025-10-22",
+        "count": 17
+      },
+      {
+        "date": "2025-10-23",
+        "count": 1
+      },
+      {
+        "date": "2025-10-24",
+        "count": 13
+      },
+      {
+        "date": "2025-10-25",
+        "count": 1
+      },
+      {
+        "date": "2025-10-26",
+        "count": 1
+      },
+      {
+        "date": "2025-10-27",
+        "count": 9
+      },
+      {
+        "date": "2025-10-28",
+        "count": 7
+      },
+      {
+        "date": "2025-10-29",
+        "count": 16
+      },
+      {
+        "date": "2025-10-30",
+        "count": 11
+      },
+      {
+        "date": "2025-10-31",
+        "count": 7
+      },
+      {
+        "date": "2025-11-01",
+        "count": 1
+      },
+      {
+        "date": "2025-11-02",
+        "count": 1
+      },
+      {
+        "date": "2025-11-03",
+        "count": 28
+      },
+      {
+        "date": "2025-11-04",
+        "count": 7
+      },
+      {
+        "date": "2025-11-05",
+        "count": 30
+      },
+      {
+        "date": "2025-11-06",
+        "count": 20
+      },
+      {
+        "date": "2025-11-07",
+        "count": 9
+      },
+      {
+        "date": "2025-11-08",
+        "count": 1
+      },
+      {
+        "date": "2025-11-09",
+        "count": 1
+      },
+      {
+        "date": "2025-11-10",
+        "count": 15
+      },
+      {
+        "date": "2025-11-11",
+        "count": 67
+      },
+      {
+        "date": "2025-11-12",
+        "count": 52
+      },
+      {
+        "date": "2025-11-13",
+        "count": 26
+      },
+      {
+        "date": "2025-11-14",
+        "count": 37
+      },
+      {
+        "date": "2025-11-15",
+        "count": 1
+      },
+      {
+        "date": "2025-11-16",
+        "count": 1
+      },
+      {
+        "date": "2025-11-17",
+        "count": 52
+      },
+      {
+        "date": "2025-11-18",
+        "count": 56
+      },
+      {
+        "date": "2025-11-19",
+        "count": 26
+      },
+      {
+        "date": "2025-11-20",
+        "count": 77
+      },
+      {
+        "date": "2025-11-21",
+        "count": 19
+      },
+      {
+        "date": "2025-11-22",
+        "count": 11
+      },
+      {
+        "date": "2025-11-23",
+        "count": 6
+      },
+      {
+        "date": "2025-11-24",
+        "count": 23
+      },
+      {
+        "date": "2025-11-25",
+        "count": 25
+      },
+      {
+        "date": "2025-11-26",
+        "count": 52
+      },
+      {
+        "date": "2025-11-27",
+        "count": 12
+      },
+      {
+        "date": "2025-11-28",
+        "count": 11
+      },
+      {
+        "date": "2025-11-29",
+        "count": 24
+      },
+      {
+        "date": "2025-11-30",
+        "count": 18
+      },
+      {
+        "date": "2025-12-01",
+        "count": 35
+      },
+      {
+        "date": "2025-12-02",
+        "count": 20
+      },
+      {
+        "date": "2025-12-03",
+        "count": 6
+      },
+      {
+        "date": "2025-12-04",
+        "count": 13
+      },
+      {
+        "date": "2025-12-05",
+        "count": 6
+      },
+      {
+        "date": "2025-12-06",
+        "count": 17
+      },
+      {
+        "date": "2025-12-07",
+        "count": 10
+      },
+      {
+        "date": "2025-12-08",
+        "count": 40
+      },
+      {
+        "date": "2025-12-09",
+        "count": 22
+      },
+      {
+        "date": "2025-12-10",
+        "count": 19
+      },
+      {
+        "date": "2025-12-11",
+        "count": 20
+      },
+      {
+        "date": "2025-12-12",
+        "count": 36
+      },
+      {
+        "date": "2025-12-13",
+        "count": 1
+      },
+      {
+        "date": "2025-12-14",
+        "count": 10
+      },
+      {
+        "date": "2025-12-15",
+        "count": 21
+      },
+      {
+        "date": "2025-12-16",
+        "count": 20
+      },
+      {
+        "date": "2025-12-17",
+        "count": 32
+      },
+      {
+        "date": "2025-12-18",
+        "count": 18
+      },
+      {
+        "date": "2025-12-19",
+        "count": 14
+      },
+      {
+        "date": "2025-12-20",
+        "count": 9
+      },
+      {
+        "date": "2025-12-21",
+        "count": 8
+      },
+      {
+        "date": "2025-12-22",
+        "count": 13
+      },
+      {
+        "date": "2025-12-23",
+        "count": 2
+      },
+      {
+        "date": "2025-12-24",
+        "count": 12
+      },
+      {
+        "date": "2025-12-25",
+        "count": 26
+      },
+      {
+        "date": "2025-12-26",
+        "count": 9
+      },
+      {
+        "date": "2025-12-27",
+        "count": 21
+      },
+      {
+        "date": "2025-12-28",
+        "count": 5
+      },
+      {
+        "date": "2025-12-29",
+        "count": 40
+      },
+      {
+        "date": "2025-12-30",
+        "count": 28
+      },
+      {
+        "date": "2025-12-31",
+        "count": 5
+      },
+      {
+        "date": "2026-01-01",
+        "count": 34
+      },
+      {
+        "date": "2026-01-02",
+        "count": 13
+      },
+      {
+        "date": "2026-01-03",
+        "count": 11
+      },
+      {
+        "date": "2026-01-04",
+        "count": 11
+      },
+      {
+        "date": "2026-01-05",
+        "count": 5
+      },
+      {
+        "date": "2026-01-06",
+        "count": 54
+      },
+      {
+        "date": "2026-01-07",
+        "count": 59
+      },
+      {
+        "date": "2026-01-08",
+        "count": 25
+      },
+      {
+        "date": "2026-01-09",
+        "count": 27
+      },
+      {
+        "date": "2026-01-10",
+        "count": 46
+      },
+      {
+        "date": "2026-01-11",
+        "count": 28
+      },
+      {
+        "date": "2026-01-12",
+        "count": 14
+      },
+      {
+        "date": "2026-01-13",
+        "count": 66
+      },
+      {
+        "date": "2026-01-14",
+        "count": 111
+      },
+      {
+        "date": "2026-01-15",
+        "count": 20
+      },
+      {
+        "date": "2026-01-16",
+        "count": 39
+      },
+      {
+        "date": "2026-01-17",
+        "count": 29
+      },
+      {
+        "date": "2026-01-18",
+        "count": 21
+      },
+      {
+        "date": "2026-01-19",
+        "count": 19
+      },
+      {
+        "date": "2026-01-20",
+        "count": 74
+      },
+      {
+        "date": "2026-01-21",
+        "count": 49
+      },
+      {
+        "date": "2026-01-22",
+        "count": 32
+      },
+      {
+        "date": "2026-01-23",
+        "count": 141
+      },
+      {
+        "date": "2026-01-24",
+        "count": 72
+      },
+      {
+        "date": "2026-01-25",
+        "count": 111
+      },
+      {
+        "date": "2026-01-26",
+        "count": 67
+      },
+      {
+        "date": "2026-01-27",
+        "count": 48
+      },
+      {
+        "date": "2026-01-28",
+        "count": 36
+      },
+      {
+        "date": "2026-01-29",
+        "count": 53
+      },
+      {
+        "date": "2026-01-30",
+        "count": 14
+      },
+      {
+        "date": "2026-01-31",
+        "count": 31
+      },
+      {
+        "date": "2026-02-01",
+        "count": 94
+      },
+      {
+        "date": "2026-02-02",
+        "count": 32
+      },
+      {
+        "date": "2026-02-03",
+        "count": 53
+      },
+      {
+        "date": "2026-02-04",
+        "count": 60
+      },
+      {
+        "date": "2026-02-05",
+        "count": 33
+      },
+      {
+        "date": "2026-02-06",
+        "count": 36
+      },
+      {
+        "date": "2026-02-07",
+        "count": 26
+      },
+      {
+        "date": "2026-02-08",
+        "count": 60
+      },
+      {
+        "date": "2026-02-09",
+        "count": 20
+      },
+      {
+        "date": "2026-02-10",
+        "count": 62
+      },
+      {
+        "date": "2026-02-11",
+        "count": 93
+      },
+      {
+        "date": "2026-02-12",
+        "count": 62
+      },
+      {
+        "date": "2026-02-13",
+        "count": 37
+      },
+      {
+        "date": "2026-02-14",
+        "count": 38
+      },
+      {
+        "date": "2026-02-15",
+        "count": 67
+      },
+      {
+        "date": "2026-02-16",
+        "count": 116
+      },
+      {
+        "date": "2026-02-17",
+        "count": 62
+      },
+      {
+        "date": "2026-02-18",
+        "count": 37
+      },
+      {
+        "date": "2026-02-19",
+        "count": 33
+      },
+      {
+        "date": "2026-02-20",
+        "count": 56
+      },
+      {
+        "date": "2026-02-21",
+        "count": 89
+      },
+      {
+        "date": "2026-02-22",
+        "count": 95
+      },
+      {
+        "date": "2026-02-23",
+        "count": 44
+      },
+      {
+        "date": "2026-02-24",
+        "count": 76
+      },
+      {
+        "date": "2026-02-25",
+        "count": 82
+      },
+      {
+        "date": "2026-02-26",
+        "count": 73
+      },
+      {
+        "date": "2026-02-27",
+        "count": 129
+      },
+      {
+        "date": "2026-02-28",
+        "count": 97
+      },
+      {
+        "date": "2026-03-01",
+        "count": 65
+      },
+      {
+        "date": "2026-03-02",
+        "count": 121
+      },
+      {
+        "date": "2026-03-03",
+        "count": 126
+      },
+      {
+        "date": "2026-03-04",
+        "count": 91
+      },
+      {
+        "date": "2026-03-05",
+        "count": 96
+      },
+      {
+        "date": "2026-03-06",
+        "count": 90
+      },
+      {
+        "date": "2026-03-07",
+        "count": 112
+      },
+      {
+        "date": "2026-03-08",
+        "count": 131
+      },
+      {
+        "date": "2026-03-09",
+        "count": 163
+      },
+      {
+        "date": "2026-03-10",
+        "count": 160
+      },
+      {
+        "date": "2026-03-11",
+        "count": 64
+      },
+      {
+        "date": "2026-03-12",
+        "count": 99
+      },
+      {
+        "date": "2026-03-13",
+        "count": 108
+      },
+      {
+        "date": "2026-03-14",
+        "count": 79
+      },
+      {
+        "date": "2026-03-15",
+        "count": 41
+      },
+      {
+        "date": "2026-03-16",
+        "count": 53
+      },
+      {
+        "date": "2026-03-17",
+        "count": 93
+      },
+      {
+        "date": "2026-03-18",
+        "count": 86
+      },
+      {
+        "date": "2026-03-19",
+        "count": 61
+      },
+      {
+        "date": "2026-03-20",
+        "count": 74
+      },
+      {
+        "date": "2026-03-21",
+        "count": 70
+      },
+      {
+        "date": "2026-03-22",
+        "count": 82
+      },
+      {
+        "date": "2026-03-23",
+        "count": 98
+      },
+      {
+        "date": "2026-03-24",
+        "count": 124
+      },
+      {
+        "date": "2026-03-25",
+        "count": 21
+      },
+      {
+        "date": "2026-03-26",
+        "count": 13
+      },
+      {
+        "date": "2026-03-27",
+        "count": 46
+      },
+      {
+        "date": "2026-03-28",
+        "count": 13
+      },
+      {
+        "date": "2026-03-29",
+        "count": 46
+      },
+      {
+        "date": "2026-03-30",
+        "count": 107
+      },
+      {
+        "date": "2026-03-31",
+        "count": 138
+      },
+      {
+        "date": "2026-04-01",
+        "count": 86
+      },
+      {
+        "date": "2026-04-02",
+        "count": 57
+      },
+      {
+        "date": "2026-04-03",
+        "count": 68
+      },
+      {
+        "date": "2026-04-04",
+        "count": 57
+      },
+      {
+        "date": "2026-04-05",
+        "count": 21
+      },
+      {
+        "date": "2026-04-06",
+        "count": 12
+      },
+      {
+        "date": "2026-04-07",
+        "count": 47
+      },
+      {
+        "date": "2026-04-08",
+        "count": 24
+      },
+      {
+        "date": "2026-04-09",
+        "count": 55
+      },
+      {
+        "date": "2026-04-10",
+        "count": 45
+      },
+      {
+        "date": "2026-04-11",
+        "count": 1
+      },
+      {
+        "date": "2026-04-12",
+        "count": 67
+      },
+      {
+        "date": "2026-04-13",
+        "count": 70
+      },
+      {
+        "date": "2026-04-14",
+        "count": 135
+      },
+      {
+        "date": "2026-04-15",
+        "count": 72
+      },
+      {
+        "date": "2026-04-16",
+        "count": 31
+      },
+      {
+        "date": "2026-04-17",
+        "count": 28
+      },
+      {
+        "date": "2026-04-18",
+        "count": 1
+      },
+      {
+        "date": "2026-04-19",
+        "count": 1
+      },
+      {
+        "date": "2026-04-20",
+        "count": 95
+      },
+      {
+        "date": "2026-04-21",
+        "count": 68
+      },
+      {
+        "date": "2026-04-22",
+        "count": 7
+      },
+      {
+        "date": "2026-04-23",
+        "count": 45
+      },
+      {
+        "date": "2026-04-24",
+        "count": 105
+      },
+      {
+        "date": "2026-04-25",
+        "count": 19
+      },
+      {
+        "date": "2026-04-26",
+        "count": 1
+      },
+      {
+        "date": "2026-04-27",
+        "count": 17
+      },
+      {
+        "date": "2026-04-28",
+        "count": 2
+      },
+      {
+        "date": "2026-04-29",
+        "count": 1
+      },
+      {
+        "date": "2026-04-30",
+        "count": 1
+      },
+      {
+        "date": "2026-05-01",
+        "count": 3
+      },
+      {
+        "date": "2026-05-02",
+        "count": 5
+      },
+      {
+        "date": "2026-05-03",
+        "count": 46
+      },
+      {
+        "date": "2026-05-04",
+        "count": 2
+      },
+      {
+        "date": "2026-05-05",
+        "count": 14
+      },
+      {
+        "date": "2026-05-06",
+        "count": 16
+      },
+      {
+        "date": "2026-05-07",
+        "count": 20
+      },
+      {
+        "date": "2026-05-08",
+        "count": 134
+      },
+      {
+        "date": "2026-05-09",
+        "count": 47
+      },
+      {
+        "date": "2026-05-10",
+        "count": 18
+      },
+      {
+        "date": "2026-05-11",
+        "count": 92
+      },
+      {
+        "date": "2026-05-12",
+        "count": 58
+      },
+      {
+        "date": "2026-05-13",
+        "count": 68
+      },
+      {
+        "date": "2026-05-14",
+        "count": 145
+      },
+      {
+        "date": "2026-05-15",
+        "count": 142
+      },
+      {
+        "date": "2026-05-16",
+        "count": 215
+      },
+      {
+        "date": "2026-05-17",
+        "count": 210
+      },
+      {
+        "date": "2026-05-18",
+        "count": 171
+      },
+      {
+        "date": "2026-05-19",
+        "count": 176
+      },
+      {
+        "date": "2026-05-20",
+        "count": 102
+      },
+      {
+        "date": "2026-05-21",
+        "count": 140
+      },
+      {
+        "date": "2026-05-22",
+        "count": 108
+      },
+      {
+        "date": "2026-05-23",
+        "count": 92
+      },
+      {
+        "date": "2026-05-24",
+        "count": 113
+      },
+      {
+        "date": "2026-05-25",
+        "count": 86
+      },
+      {
+        "date": "2026-05-26",
+        "count": 149
+      },
+      {
+        "date": "2026-05-27",
+        "count": 182
+      },
+      {
+        "date": "2026-05-28",
+        "count": 88
+      },
+      {
+        "date": "2026-05-29",
+        "count": 112
+      },
+      {
+        "date": "2026-05-30",
+        "count": 112
+      },
+      {
+        "date": "2026-05-31",
+        "count": 90
+      },
+      {
+        "date": "2026-06-01",
+        "count": 87
+      },
+      {
+        "date": "2026-06-02",
+        "count": 99
+      },
+      {
+        "date": "2026-06-03",
+        "count": 132
+      },
+      {
+        "date": "2026-06-04",
+        "count": 101
+      },
+      {
+        "date": "2026-06-05",
+        "count": 209
+      },
+      {
+        "date": "2026-06-06",
+        "count": 189
+      },
+      {
+        "date": "2026-06-07",
+        "count": 187
+      },
+      {
+        "date": "2026-06-08",
+        "count": 227
+      },
+      {
+        "date": "2026-06-09",
+        "count": 83
+      },
+      {
+        "date": "2026-06-10",
+        "count": 192
+      },
+      {
+        "date": "2026-06-11",
+        "count": 134
+      },
+      {
+        "date": "2026-06-12",
+        "count": 329
+      },
+      {
+        "date": "2026-06-13",
+        "count": 96
+      },
+      {
+        "date": "2026-06-14",
+        "count": 92
+      },
+      {
+        "date": "2026-06-15",
+        "count": 235
+      },
+      {
+        "date": "2026-06-16",
+        "count": 104
+      },
+      {
+        "date": "2026-06-17",
+        "count": 102
+      },
+      {
+        "date": "2026-06-18",
+        "count": 122
+      },
+      {
+        "date": "2026-06-19",
+        "count": 102
+      },
+      {
+        "date": "2026-06-20",
+        "count": 180
+      },
+      {
+        "date": "2026-06-21",
+        "count": 145
+      },
+      {
+        "date": "2026-06-22",
+        "count": 82
+      },
+      {
+        "date": "2026-06-23",
+        "count": 86
+      },
+      {
+        "date": "2026-06-24",
+        "count": 144
+      },
+      {
+        "date": "2026-06-25",
+        "count": 169
+      },
+      {
+        "date": "2026-06-26",
+        "count": 164
+      },
+      {
+        "date": "2026-06-27",
+        "count": 138
+      },
+      {
+        "date": "2026-06-28",
+        "count": 142
+      },
+      {
+        "date": "2026-06-29",
+        "count": 109
+      },
+      {
+        "date": "2026-06-30",
+        "count": 178
+      },
+      {
+        "date": "2026-07-01",
+        "count": 219
+      },
+      {
+        "date": "2026-07-02",
+        "count": 230
+      },
+      {
+        "date": "2026-07-03",
+        "count": 215
+      },
+      {
+        "date": "2026-07-04",
+        "count": 246
+      },
+      {
+        "date": "2026-07-05",
+        "count": 37
+      },
+      {
+        "date": "2026-07-06",
+        "count": 258
+      },
+      {
+        "date": "2026-07-07",
+        "count": 93
+      },
+      {
+        "date": "2026-07-08",
+        "count": 85
+      },
+      {
+        "date": "2026-07-09",
+        "count": 101
+      },
+      {
+        "date": "2026-07-10",
+        "count": 299
+      },
+      {
+        "date": "2026-07-11",
+        "count": 416
+      },
+      {
+        "date": "2026-07-12",
+        "count": 312
+      },
+      {
+        "date": "2026-07-13",
+        "count": 230
+      },
+      {
+        "date": "2026-07-14",
+        "count": 147
+      },
+      {
+        "date": "2026-07-15",
+        "count": 93
+      },
+      {
+        "date": "2026-07-16",
+        "count": 295
+      },
+      {
+        "date": "2026-07-17",
+        "count": 105
+      },
+      {
+        "date": "2026-07-18",
+        "count": 151
+      },
+      {
+        "date": "2026-07-19",
+        "count": 221
+      },
+      {
+        "date": "2026-07-20",
+        "count": 162
+      },
+      {
+        "date": "2026-07-21",
+        "count": 158
+      },
+      {
+        "date": "2026-07-22",
+        "count": 379
+      },
+      {
+        "date": "2026-07-23",
+        "count": 225
+      },
+      {
+        "date": "2026-07-24",
+        "count": 156
+      },
+      {
+        "date": "2026-07-25",
+        "count": 77
+      },
+      {
+        "date": "2026-07-26",
+        "count": 66
+      },
+      {
+        "date": "2026-07-27",
+        "count": 31
+      },
+      {
+        "date": "2026-07-28",
+        "count": 98
+      },
+      {
+        "date": "2026-07-29",
+        "count": 191
+      },
+      {
+        "date": "2026-07-30",
+        "count": 370
+      },
+      {
+        "date": "2026-07-31",
+        "count": 222
+      },
+      {
+        "date": "2026-08-01",
+        "count": 316
+      },
+      {
+        "date": "2026-08-02",
+        "count": 223
+      },
+      {
+        "date": "2026-08-03",
+        "count": 164
+      },
+      {
+        "date": "2026-08-04",
+        "count": 40
+      },
+      {
+        "date": "2026-08-05",
+        "count": 34
+      },
+      {
+        "date": "2026-08-06",
+        "count": 41
+      },
+      {
+        "date": "2026-08-07",
+        "count": 317
+      },
+      {
+        "date": "2026-08-08",
+        "count": 135
+      },
+      {
+        "date": "2026-08-09",
+        "count": 70
+      },
+      {
+        "date": "2026-08-10",
+        "count": 117
+      },
+      {
+        "date": "2026-08-11",
+        "count": 125
+      },
+      {
+        "date": "2026-08-12",
+        "count": 137
+      },
+      {
+        "date": "2026-08-13",
+        "count": 94
+      },
+      {
+        "date": "2026-08-14",
+        "count": 179
+      },
+      {
+        "date": "2026-08-15",
+        "count": 136
+      },
+      {
+        "date": "2026-08-16",
+        "count": 137
+      },
+      {
+        "date": "2026-08-17",
+        "count": 307
+      },
+      {
+        "date": "2026-08-18",
+        "count": 297
+      },
+      {
+        "date": "2026-08-19",
+        "count": 241
+      },
+      {
+        "date": "2026-08-20",
+        "count": 396
+      },
+      {
+        "date": "2026-08-21",
+        "count": 58
+      },
+      {
+        "date": "2026-08-22",
+        "count": 7
+      },
+      {
+        "date": "2026-08-23",
+        "count": 117
+      },
+      {
+        "date": "2026-08-24",
+        "count": 81
+      },
+      {
+        "date": "2026-08-25",
+        "count": 486
+      },
+      {
+        "date": "2026-08-26",
+        "count": 492
+      },
+      {
+        "date": "2026-08-27",
+        "count": 226
+      },
+      {
+        "date": "2026-08-28",
+        "count": 173
+      },
+      {
+        "date": "2026-08-29",
+        "count": 273
+      },
+      {
+        "date": "2026-08-30",
+        "count": 308
+      },
+      {
+        "date": "2026-08-31",
+        "count": 337
+      },
+      {
+        "date": "2026-09-01",
+        "count": 417
+      },
+      {
+        "date": "2026-09-02",
+        "count": 271
+      },
+      {
+        "date": "2026-09-03",
+        "count": 161
+      },
+      {
+        "date": "2026-09-04",
+        "count": 181
+      },
+      {
+        "date": "2026-09-05",
+        "count": 204
+      },
+      {
+        "date": "2026-09-06",
+        "count": 99
+      },
+      {
+        "date": "2026-09-07",
+        "count": 0
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "bytes": 23093017,
+        "share": 0.7558835176271985,
+        "color": "#3178c6",
+        "repoCount": 106
+      },
+      {
+        "name": "CSS",
+        "bytes": 3928725,
+        "share": 0.12859551754497542,
+        "color": "#663399",
+        "repoCount": 73
+      },
+      {
+        "name": "Vue",
+        "bytes": 1114626,
+        "share": 0.036484077490556294,
+        "color": "#41b883",
+        "repoCount": 50
+      },
+      {
+        "name": "Shell",
+        "bytes": 931566,
+        "share": 0.0304921346995024,
+        "color": "#89e051",
+        "repoCount": 29
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 662902,
+        "share": 0.02169819108530103,
+        "color": "#f1e05a",
+        "repoCount": 137
+      },
+      {
+        "name": "HTML",
+        "bytes": 274797,
+        "share": 0.008994689736442895,
+        "color": "#e34c26",
+        "repoCount": 119
+      },
+      {
+        "name": "C#",
+        "bytes": 225783,
+        "share": 0.00739035736475757,
+        "color": "#7355dd",
+        "repoCount": 10
+      },
+      {
+        "name": "Go",
+        "bytes": 172918,
+        "share": 0.0056599735799380355,
+        "color": "#00ADD8",
+        "repoCount": 19
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 41013,
+        "share": 0.001342442640060599,
+        "color": "#384d54",
+        "repoCount": 13
+      },
+      {
+        "name": "Python",
+        "bytes": 28857,
+        "share": 0.0009445509293206716,
+        "color": "#3572A5",
+        "repoCount": 10
+      },
+      {
+        "name": "Rust",
+        "bytes": 23752,
+        "share": 0.0007774534315148696,
+        "color": "#dea584",
+        "repoCount": 5
+      },
+      {
+        "name": "TSQL",
+        "bytes": 9808,
+        "share": 0.0003210366813867397,
+        "color": "#e38c00",
+        "repoCount": 1
+      },
+      {
+        "name": "C++",
+        "bytes": 9619,
+        "share": 0.0003148503097735572,
+        "color": "#f34b7d",
+        "repoCount": 3
+      },
+      {
+        "name": "PowerShell",
+        "bytes": 8214,
+        "share": 0.000268861674236407,
+        "color": "#012456",
+        "repoCount": 1
+      },
+      {
+        "name": "Elixir",
+        "bytes": 8173,
+        "share": 0.0002675196571139706,
+        "color": "#6e4a7e",
+        "repoCount": 2
+      },
+      {
+        "name": "C",
+        "bytes": 7371,
+        "share": 0.00024126849291411685,
+        "color": "#555555",
+        "repoCount": 5
+      },
+      {
+        "name": "Lua",
+        "bytes": 2833,
+        "share": 0.00009273010994786231,
+        "color": "#000080",
+        "repoCount": 1
+      },
+      {
+        "name": "Svelte",
+        "bytes": 2525,
+        "share": 0.00008264861546712048,
+        "color": "#ff3e00",
+        "repoCount": 1
+      },
+      {
+        "name": "Ruby",
+        "bytes": 1526,
+        "share": 0.0000499492226545845,
+        "color": "#701516",
+        "repoCount": 1
+      },
+      {
+        "name": "Java",
+        "bytes": 1327,
+        "share": 0.00004343552979202728,
+        "color": "#b07219",
+        "repoCount": 1
+      },
+      {
+        "name": "Zig",
+        "bytes": 752,
+        "share": 0.00002461455795298004,
+        "color": "#ec915c",
+        "repoCount": 1
+      },
+      {
+        "name": "D",
+        "bytes": 579,
+        "share": 0.000018951900338797133,
+        "color": "#ba595e",
+        "repoCount": 1
+      },
+      {
+        "name": "Perl",
+        "bytes": 194,
+        "share": 0.000006350032237869851,
+        "color": "#0298c3",
+        "repoCount": 1
+      },
+      {
+        "name": "PHP",
+        "bytes": 149,
+        "share": 0.000004877086615683545,
+        "color": "#4F5D95",
+        "repoCount": 1
+      }
+    ],
+    "repos": [
+      {
+        "nameWithOwner": "robertjbass/spindb",
+        "name": "spindb",
+        "owner": "robertjbass",
+        "description": "Spin up local databases without Docker. One CLI for PostgreSQL, MySQL, MongoDB, Redis, and 17 more — a lightweight replacement for DBngin, Postgres.app, and docker-compose.",
+        "url": "https://github.com/robertjbass/spindb",
+        "stars": 19,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "robertjbass/hostdb",
+        "name": "hostdb",
+        "owner": "robertjbass",
+        "description": "Platform-specific npm packages for embedding most database binaries in Node.js projects. Supports linux-x64, linux-arm64, darwin-arm64, win32-x64.",
+        "url": "https://github.com/robertjbass/hostdb",
+        "stars": 1,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "robertjbass/hackerlab",
+        "name": "hackerlab",
+        "owner": "robertjbass",
+        "description": null,
+        "url": "https://github.com/robertjbass/hackerlab",
+        "stars": 1,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "robertjbass/dotport",
+        "name": "dotport",
+        "owner": "robertjbass",
+        "description": "A lightweight tool that snapshots and restores your entire system configuration and dotfiles, making new-machine setup fast, consistent, and painless",
+        "url": "https://github.com/robertjbass/dotport",
+        "stars": 1,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "robertjbass/nodepm-ui",
+        "name": "nodepm-ui",
+        "owner": "robertjbass",
+        "description": "A terminal based node process manager",
+        "url": "https://github.com/robertjbass/nodepm-ui",
+        "stars": 1,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "robertjbass/lpgp",
+        "name": "lpgp",
+        "owner": "robertjbass",
+        "description": "The easiest to use PGP client running locally on your machine packaged with SQLite",
+        "url": "https://github.com/robertjbass/lpgp",
+        "stars": 1,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "robertjbass/ask-chat",
+        "name": "ask-chat",
+        "owner": "robertjbass",
+        "description": "ChatGPT in the terminal for quick questions that don't interrupt your workflow",
+        "url": "https://github.com/robertjbass/ask-chat",
+        "stars": 2,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "robertjbass/hey-chatgpt",
+        "name": "hey-chatgpt",
+        "owner": "robertjbass",
+        "description": "A personal assistant like Siri meant to be run on a Raspberry Pi",
+        "url": "https://github.com/robertjbass/hey-chatgpt",
+        "stars": 1,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "robertjbass/gh-data-scraper",
+        "name": "gh-data-scraper",
+        "owner": "robertjbass",
+        "description": "A CLI tool to help you organize, analyze, and clean your old GH repos",
+        "url": "https://github.com/robertjbass/gh-data-scraper",
+        "stars": 1,
+        "forks": 0,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "payloadcms/payload",
+        "name": "payload",
+        "owner": "payloadcms",
+        "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+        "url": "https://github.com/payloadcms/payload",
+        "stars": 44601,
+        "forks": 4127,
+        "language": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        }
+      },
+      {
+        "nameWithOwner": "MariaDB4j/MariaDB4j",
+        "name": "MariaDB4j",
+        "owner": "MariaDB4j",
+        "description": "MariaDB Embedded in Java JAR",
+        "url": "https://github.com/MariaDB4j/MariaDB4j",
+        "stars": 899,
+        "forks": 183,
+        "language": {
+          "name": "Java",
+          "color": "#b07219"
+        }
+      },
+      {
+        "nameWithOwner": "PostHog/duckgres",
+        "name": "duckgres",
+        "owner": "PostHog",
+        "description": "OLAPostHog Server",
+        "url": "https://github.com/PostHog/duckgres",
+        "stars": 177,
+        "forks": 18,
+        "language": {
+          "name": "Go",
+          "color": "#00ADD8"
+        }
+      }
+    ]
+  },
+  "ossPrs": {
+    "totalMergedPrs": 511,
+    "repoCount": 11,
+    "repos": [
+      {
+        "repo": "robertjbass/spindb",
+        "url": "https://github.com/robertjbass/spindb",
+        "prCount": 277,
+        "recentTitles": [
+          "Release 0.68.5",
+          "fix(create): name the engine's own dump tool in remote-dump errors",
+          "fix(redis): treat Heroku's legacy h username as no username for redis-cli"
+        ]
+      },
+      {
+        "repo": "robertjbass/hostdb",
+        "url": "https://github.com/robertjbass/hostdb",
+        "prCount": 223,
+        "recentTitles": [
+          "release: hostdb 0.42.0 - PostgreSQL 15.19, 16.15, 17.11 (Aug 2026 CVE wave, old majors)",
+          "feat: add PostgreSQL 17.11.0, 16.15.0, and 15.19.0 (Aug 2026 CVE wave, old majors)",
+          "Release: hostdb 0.41.0 - PostgreSQL 18.6.0 + 19.0.0-beta.3 (Aug 2026 CVE wave)"
+        ]
+      },
+      {
+        "repo": "payloadcms/payload",
+        "url": "https://github.com/payloadcms/payload",
+        "prCount": 2,
+        "recentTitles": [
+          "fix: handle concurrent autosave write conflicts gracefully",
+          "fix: 'front-end' spelling typo in JSDocs for overrideAccess"
+        ]
+      },
+      {
+        "repo": "tmcpa/claudedirectory",
+        "url": "https://github.com/tmcpa/claudedirectory",
+        "prCount": 2,
+        "recentTitles": [
+          "fix: skill install path (.claude/skills/<name>/SKILL.md) + refresh Layerbase skill",
+          "Add Layerbase managed databases skill"
+        ]
+      },
+      {
+        "repo": "alexeyfv/awesome-free-postgres",
+        "url": "https://github.com/alexeyfv/awesome-free-postgres",
+        "prCount": 1,
+        "recentTitles": [
+          "Add layerbase.com"
+        ]
+      },
+      {
+        "repo": "davidgasquez/awesome-duckdb",
+        "url": "https://github.com/davidgasquez/awesome-duckdb",
+        "prCount": 1,
+        "recentTitles": [
+          "Add Layerbase to Client-Server Setups"
+        ]
+      },
+      {
+        "repo": "erans/pgsqlite",
+        "url": "https://github.com/erans/pgsqlite",
+        "prCount": 1,
+        "recentTitles": [
+          "Fix schema-drift false positive on SERIAL/AUTOINCREMENT columns"
+        ]
+      },
+      {
+        "repo": "fireship-io/fireship.io",
+        "url": "https://github.com/fireship-io/fireship.io",
+        "prCount": 1,
+        "recentTitles": [
+          "Dart Course Typo"
+        ]
+      },
+      {
+        "repo": "MariaDB4j/MariaDB4j",
+        "url": "https://github.com/MariaDB4j/MariaDB4j",
+        "prCount": 1,
+        "recentTitles": [
+          "Add arm64 binaries for macOS and Linux platforms"
+        ]
+      },
+      {
+        "repo": "PostHog/duckgres",
+        "url": "https://github.com/PostHog/duckgres",
+        "prCount": 1,
+        "recentTitles": [
+          "feat: add opt-in file persistence for DuckDB"
+        ]
+      },
+      {
+        "repo": "ripienaar/free-for-dev",
+        "url": "https://github.com/ripienaar/free-for-dev",
+        "prCount": 1,
+        "recentTitles": [
+          "Add Layerbase to the list of free database services"
+        ]
+      }
+    ]
+  },
+  "npm": {
+    "packages": [
+      {
+        "name": "spindb",
+        "allTime": 34965,
+        "last90Days": 11316,
+        "dailyAverage": 125.7,
+        "projectedYear": 45893
+      },
+      {
+        "name": "hostdb",
+        "allTime": 18207,
+        "last90Days": 7660,
+        "dailyAverage": 85.1,
+        "projectedYear": 31066
+      },
+      {
+        "name": "ask-chat",
+        "allTime": 3805,
+        "last90Days": 377,
+        "dailyAverage": 4.2,
+        "projectedYear": 1529
+      },
+      {
+        "name": "layerbase",
+        "allTime": 3246,
+        "last90Days": 2905,
+        "dailyAverage": 32.3,
+        "projectedYear": 11781
+      },
+      {
+        "name": "lpgp",
+        "allTime": 1338,
+        "last90Days": 310,
+        "dailyAverage": 3.4,
+        "projectedYear": 1257
+      },
+      {
+        "name": "nodepm-ui",
+        "allTime": 1014,
+        "last90Days": 139,
+        "dailyAverage": 1.5,
+        "projectedYear": 564
+      },
+      {
+        "name": "payload-client-query",
+        "allTime": 487,
+        "last90Days": 64,
+        "dailyAverage": 0.7,
+        "projectedYear": 260
+      },
+      {
+        "name": "dotport",
+        "allTime": 391,
+        "last90Days": 98,
+        "dailyAverage": 1.1,
+        "projectedYear": 397
+      },
+      {
+        "name": "redis-view",
+        "allTime": 344,
+        "last90Days": 59,
+        "dailyAverage": 0.7,
+        "projectedYear": 239
+      },
+      {
+        "name": "dbsdk",
+        "allTime": 157,
+        "last90Days": 30,
+        "dailyAverage": 0.3,
+        "projectedYear": 122
+      },
+      {
+        "name": "@layerbase/secrets",
+        "allTime": 77,
+        "last90Days": 77,
+        "dailyAverage": 0.9,
+        "projectedYear": 312
+      }
+    ],
+    "totalAllTime": 64031,
+    "totalLast90Days": 23035,
+    "totalDailyAverage": 255.9,
+    "totalProjectedYear": 93420,
+    "windowDays": 90
+  },
+  "engines": {
+    "source": "https://registry.layerbase.host/releases.json",
+    "repository": "robertjbass/hostdb",
+    "engineCount": 22,
+    "versionCount": 84,
+    "engines": [
+      {
+        "name": "clickhouse",
+        "latestVersion": "25.12.3.21",
+        "latestPrerelease": null,
+        "releasedAt": "2026-01-13T23:56:18Z",
+        "versionCount": 1,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64"
+        ]
+      },
+      {
+        "name": "cockroachdb",
+        "latestVersion": "25.4.2",
+        "latestPrerelease": null,
+        "releasedAt": "2026-01-26T05:09:51Z",
+        "versionCount": 1,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "couchdb",
+        "latestVersion": "3.5.2",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T19:39:58Z",
+        "versionCount": 2,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "duckdb",
+        "latestVersion": "1.5.5",
+        "latestPrerelease": null,
+        "releasedAt": "2026-07-24T07:07:42Z",
+        "versionCount": 3,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "ferretdb",
+        "latestVersion": "2.7.0",
+        "latestPrerelease": null,
+        "releasedAt": "2026-01-23T06:17:12Z",
+        "versionCount": 2,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "influxdb",
+        "latestVersion": "3.10.5",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T21:33:48Z",
+        "versionCount": 2,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "libsql",
+        "latestVersion": "0.24.32",
+        "latestPrerelease": null,
+        "releasedAt": "2026-03-12T21:13:38Z",
+        "versionCount": 1,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64"
+        ]
+      },
+      {
+        "name": "mariadb",
+        "latestVersion": "11.8.8",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T21:54:26Z",
+        "versionCount": 7,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "meilisearch",
+        "latestVersion": "1.52.0",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T19:38:17Z",
+        "versionCount": 3,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "mongodb",
+        "latestVersion": "8.2.12",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T19:45:07Z",
+        "versionCount": 9,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "mysql",
+        "latestVersion": "9.7.2",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T19:48:25Z",
+        "versionCount": 8,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "postgresql",
+        "latestVersion": "18.6.0",
+        "latestPrerelease": "19.0.0-beta.3",
+        "releasedAt": "2026-08-25T23:44:46Z",
+        "versionCount": 14,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "postgresql-documentdb",
+        "latestVersion": "17-0.107.0",
+        "latestPrerelease": null,
+        "releasedAt": "2026-01-23T23:05:02Z",
+        "versionCount": 1,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "qdrant",
+        "latestVersion": "1.18.3",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T19:37:54Z",
+        "versionCount": 2,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "questdb",
+        "latestVersion": "10.0.1",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-25T06:48:32Z",
+        "versionCount": 3,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "redis",
+        "latestVersion": "8.4.5",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T20:25:36Z",
+        "versionCount": 7,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "sqlite",
+        "latestVersion": "3.53.4",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T19:44:20Z",
+        "versionCount": 3,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "surrealdb",
+        "latestVersion": "2.3.2",
+        "latestPrerelease": null,
+        "releasedAt": "2026-01-26T05:30:31Z",
+        "versionCount": 1,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "tigerbeetle",
+        "latestVersion": "0.16.70",
+        "latestPrerelease": null,
+        "releasedAt": "2026-02-16T07:47:07Z",
+        "versionCount": 1,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "typedb",
+        "latestVersion": "3.12.2",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-12T17:39:24Z",
+        "versionCount": 5,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "valkey",
+        "latestVersion": "9.0.5",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T20:34:01Z",
+        "versionCount": 6,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      },
+      {
+        "name": "weaviate",
+        "latestVersion": "1.38.8",
+        "latestPrerelease": null,
+        "releasedAt": "2026-08-05T19:38:19Z",
+        "versionCount": 2,
+        "platforms": [
+          "darwin-arm64",
+          "darwin-x64",
+          "linux-arm64",
+          "linux-x64",
+          "win32-x64"
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}

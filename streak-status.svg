@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" role="img" aria-label="Commit streak status: operational, 369 days without a missed commit">
+<title>Commit streak status: operational, 369 days without a missed commit</title>
+<rect x="0.5" y="0.5" width="839" height="199" rx="10" fill="#0d1117" stroke="#ff6e96" stroke-opacity="0.4" stroke-width="1" />
+<text x="18" y="28" fill="#79dafa" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">▸</text>
+<text x="34" y="28" fill="#ff6e96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.4">commit uptime</text>
+<text x="822" y="28" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" text-anchor="end" opacity="0.75">checked 7 Sep 2026</text>
+<line x1="18" y1="40" x2="822" y2="40" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<circle cx="25" cy="61" r="5" fill="none" stroke="#3fb950" stroke-width="1"><animate attributeName="r" values="5;12" dur="2.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.45;0" dur="2.6s" repeatCount="indefinite" /></circle>
+<circle cx="25" cy="61" r="5" fill="#3fb950"><animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite" /></circle>
+<text x="42" y="67" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16"><tspan font-weight="600" fill="#3fb950">Operational</tspan><tspan dx="9" font-size="14" opacity="0.5">·</tspan><tspan dx="9" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="600" fill="#e6edf3">369 days</tspan><tspan font-size="14"> without a missed commit</tspan></text>
+<text x="822" y="66" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end"><tspan>0 incidents / 364d</tspan><tspan dx="10" opacity="0.5">·</tspan><tspan dx="10">uptime </tspan><tspan font-weight="600" fill="#3fb950">100.00%</tspan></text>
+<rect x="18" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.7" />
+<rect x="26.97" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.64" />
+<rect x="35.93" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.83" />
+<rect x="44.9" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.6" />
+<rect x="53.87" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.59" />
+<rect x="62.83" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.74" />
+<rect x="71.8" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.61" />
+<rect x="80.76" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.6" />
+<rect x="89.73" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.62" />
+<rect x="98.7" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.6" />
+<rect x="107.66" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.68" />
+<rect x="116.63" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.65" />
+<rect x="125.6" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.58" />
+<rect x="134.56" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.59" />
+<rect x="143.53" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.65" />
+<rect x="152.49" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.67" />
+<rect x="161.46" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.67" />
+<rect x="170.43" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.64" />
+<rect x="179.39" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.64" />
+<rect x="188.36" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.61" />
+<rect x="197.33" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.68" />
+<rect x="206.29" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.72" />
+<rect x="215.26" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.73" />
+<rect x="224.22" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.72" />
+<rect x="233.19" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.75" />
+<rect x="242.16" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.54" />
+<rect x="251.12" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.76" />
+<rect x="260.09" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.59" />
+<rect x="269.06" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.59" />
+<rect x="278.02" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.6" />
+<rect x="286.99" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.8" />
+<rect x="295.96" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.92" />
+<rect x="304.92" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.82" />
+<rect x="313.89" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.73" />
+<rect x="322.85" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.65" />
+<rect x="331.82" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.59" />
+<rect x="340.79" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.8" />
+<rect x="349.75" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.61" />
+<rect x="358.72" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.65" />
+<rect x="367.69" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.72" />
+<rect x="376.65" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.66" />
+<rect x="385.62" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.66" />
+<rect x="394.58" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.89" />
+<rect x="403.55" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.73" />
+<rect x="412.52" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.66" />
+<rect x="421.48" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.58" />
+<rect x="430.45" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.57" />
+<rect x="439.42" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.53" />
+<rect x="448.38" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.6" />
+<rect x="457.35" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.69" />
+<rect x="466.31" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.88" />
+<rect x="475.28" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.73" />
+<rect x="484.25" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.82" />
+<rect x="493.21" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.73" />
+<rect x="502.18" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.67" />
+<rect x="511.15" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.54" />
+<rect x="520.11" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.53" />
+<rect x="529.08" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.54" />
+<rect x="538.04" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.82" />
+<rect x="547.01" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.64" />
+<rect x="555.98" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.57" />
+<rect x="564.94" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.62" />
+<rect x="573.91" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.63" />
+<rect x="582.88" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.64" />
+<rect x="591.84" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.6" />
+<rect x="600.81" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.68" />
+<rect x="609.78" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.64" />
+<rect x="618.74" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.64" />
+<rect x="627.71" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.81" />
+<rect x="636.67" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.8" />
+<rect x="645.64" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.74" />
+<rect x="654.61" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.9" />
+<rect x="663.57" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.56" />
+<rect x="672.54" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.51" />
+<rect x="681.51" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.62" />
+<rect x="690.47" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.58" />
+<rect x="699.44" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.99" />
+<rect x="708.4" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="1" />
+<rect x="717.37" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.73" />
+<rect x="726.34" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.68" />
+<rect x="735.3" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.78" />
+<rect x="744.27" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.81" />
+<rect x="753.24" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.84" />
+<rect x="762.2" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.92" />
+<rect x="771.17" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.78" />
+<rect x="780.13" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.66" />
+<rect x="789.1" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.68" />
+<rect x="798.07" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.71" />
+<rect x="807.03" y="86" width="6" height="26" rx="2" fill="#3fb950" opacity="0.6" />
+<rect x="816" y="86" width="6" height="26" rx="2" fill="#9f9f9f" opacity="0.2" />
+<text x="18" y="128" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.6">90 days ago</text>
+<text x="420" y="128" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle" opacity="0.45">daily commit activity</text>
+<text x="822" y="128" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" text-anchor="end" opacity="0.6">today</text>
+<line x1="18" y1="142" x2="822" y2="142" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="164" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14"><tspan>Last incident: </tspan><tspan fill="#e6edf3">Sep 2, 2025</tspan><tspan dx="8" opacity="0.5">·</tspan><tspan dx="8">1 year ago</tspan></text>
+<text x="420" y="164" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="middle"><tspan>record </tspan><tspan font-weight="600" fill="#e6edf3">369 days</tspan><tspan dx="10" opacity="0.5">·</tspan><tspan dx="10" fill="#3fb950">ongoing</tspan></text>
+<text x="822" y="164" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end"><tspan fill="#79dafa">365 / 365</tspan><tspan dx="10" opacity="0.5">·</tspan><tspan dx="10">full year cleared</tspan></text>
+<rect x="18" y="176" width="804" height="4" rx="2" fill="#9f9f9f" opacity="0.14" />
+<rect x="18" y="176" width="804" height="4" rx="2" fill="#3fb950" opacity="0.8" />
+<rect x="821" y="173" width="2" height="10" rx="1" fill="#79dafa" opacity="0.85" />
+</svg>

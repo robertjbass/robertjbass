@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="351" viewBox="0 0 410 351" role="img" aria-label="oss contributions: 511 merged pull requests across 11 repositories">
+<title>oss contributions: 511 merged pull requests across 11 repositories</title>
+<rect x="0.5" y="0.5" width="409" height="350" rx="10" fill="#0d1117" stroke="#ff6e96" stroke-opacity="0.4" stroke-width="1" />
+<text x="18" y="28" fill="#79dafa" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">▸</text>
+<text x="34" y="28" fill="#ff6e96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.4">oss contributions</text>
+<text x="392" y="28" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" text-anchor="end" opacity="0.75">11 tracked</text>
+<line x1="18" y1="40" x2="392" y2="40" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="84" fill="#ff6e96" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="30" font-weight="700">511</text>
+<text x="86" y="71" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.9">MERGED PULL REQUESTS</text>
+<text x="86" y="87" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">across <tspan fill="#79dafa">11</tspan> repositories</text>
+<line x1="18" y1="102" x2="392" y2="102" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="122" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.45">01</text>
+<text x="42" y="122" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12"><tspan fill="#9f9f9f">robertjbass/</tspan><tspan fill="#e6edf3">spindb</tspan></text>
+<line x1="18" y1="133" x2="392" y2="133" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="144" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.45">02</text>
+<text x="42" y="144" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12"><tspan fill="#9f9f9f">robertjbass/</tspan><tspan fill="#e6edf3">hostdb</tspan></text>
+<line x1="18" y1="155" x2="392" y2="155" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="166" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.45">03</text>
+<text x="42" y="166" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12"><tspan fill="#9f9f9f">payloadcms/</tspan><tspan fill="#e6edf3">payload</tspan></text>
+<line x1="18" y1="177" x2="392" y2="177" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="188" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.45">04</text>
+<text x="42" y="188" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12"><tspan fill="#9f9f9f">tmcpa/</tspan><tspan fill="#e6edf3">claudedirectory</tspan></text>
+<line x1="18" y1="199" x2="392" y2="199" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="210" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.45">05</text>
+<text x="42" y="210" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12"><tspan fill="#9f9f9f">alexeyfv/</tspan><tspan fill="#e6edf3">awesome-free-postgres</tspan></text>
+<line x1="18" y1="221" x2="392" y2="221" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="232" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.45">06</text>
+<text x="42" y="232" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12"><tspan fill="#9f9f9f">davidgasquez/</tspan><tspan fill="#e6edf3">awesome-duckdb</tspan></text>
+<line x1="18" y1="243" x2="392" y2="243" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="254" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.45">07</text>
+<text x="42" y="254" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12"><tspan fill="#9f9f9f">erans/</tspan><tspan fill="#e6edf3">pgsqlite</tspan></text>
+<line x1="18" y1="265" x2="392" y2="265" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="276" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.45">08</text>
+<text x="42" y="276" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12"><tspan fill="#9f9f9f">fireship-io/</tspan><tspan fill="#e6edf3">fireship.io</tspan></text>
+<line x1="18" y1="287" x2="392" y2="287" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="42" y="298" fill="#9f9f9f" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" opacity="0.6">+ 3 more</text>
+<line x1="18" y1="309" x2="392" y2="309" stroke="#9f9f9f" stroke-width="1" opacity="0.12" />
+<text x="18" y="331" fill="#79dafa" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11">▸<animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite" /></text>
+<text x="34" y="331" fill="#9f9f9f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" opacity="0.8">community projects + my own open source</text>
+</svg>
